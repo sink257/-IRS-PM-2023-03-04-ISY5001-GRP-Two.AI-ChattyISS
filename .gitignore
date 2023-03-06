@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/Miscellaneous/01_DocumentUnderstanding/UiPath/ScreenProcess/.tmh
+/Miscellaneous/01_DocumentUnderstanding/UiPath/ScreenProcess/.settings
+/Miscellaneous/01_DocumentUnderstanding/UiPath/ScreenProcess/.project
+/Miscellaneous/01_DocumentUnderstanding/UiPath/ScreenProcess/.objects
+/Miscellaneous/01_DocumentUnderstanding/UiPath/ScreenProcess/.local
