@@ -1,0 +1,1089 @@
+Master of Technology in Enterprise Business Analytics / Intelligent Systems / Software Engineering
+
+Page 1 of 25
+
+MTech EBAC, IS and SE
+
+NUS-ISS RULES, REGULATIONS & PROCEDURES
+
+© 2023 NUS. The contents contained in this document may not be reproduced in any form or by any means, without the written permission of NUS-ISS other than the purpose for which it has been supplied.
+
+NUS
+
+National University of Singapore
+
+25 Heng Mui Keng Terrace, Singapore 119615
+
+©2023 NUS. All Rights Reserved.
+
+NUS IS5PF
+
+Nallanal UMY
+
+of snopare
+
+Master of Technology in Enterprise Business Analytics / Intelligent Systems / Software Engineering
+
+Page 2 of 25
+
+Table of Contents
+
+1. INTRODUCTION 1.1.
+Purpose
+
+4 4
+
+1.2.   Organisation of the Document                        4
+2.     EXAMINATION AND CAPSTONE PROJECT REGULATIONS        5
+2.1.   Introduction                                        5
+2.2.   Preparation for Examinations                        5
+2.3.   Organisation and Conduct of Examinations            5
+2.4.   Illness Prior or During an Examination              7
+2.5.   Absence from an Examination                         8
+2.6.   Failing an Examination and/or Practice Project(s)   8
+2.7.   Practice Module                                     9
+2.8.   Course-level Assessments                            9
+2.9.   Exemption from Assessments                          9
+
+2.10. Capstone Project and Internship Regulations 2.11.
+Passing the Degree 3.
+STUDENT ATTENDANCE REGULATIONS 3.1.
+Introduction 3.2. Satisfactory Attendance 3.3.
+Permitted Absence
+
+9 11 14 14 14 15
+
+3.4. Leave of Absence (or Deferment), Conversion of Academic Load and Withdrawal ....
+16
+
+4. TUITION FEE PAYMENT MATTERS
+
+17
+
+4.1.   Introduction                                           17
+4.2.   Billing and Refund                                     17
+4.3.   Outstanding Fees                                       18
+5.     SPECIALIST GRADUATE CERTIFICATES SELECTION PROCEDURE   18
+5.1.   Introduction                                           18
+5.2.   Selecting Specialist Graduate Certificates             18
+6.     REGULATIONS ON USE OF NUS-ISS FACILITIES               18
+6.1.   Introduction                                           18
+6.2.   Regulations                                            19
+7.     COMPUTER FACILITIES REGULATIONS                        20
+7.1.   Introduction                                           20
+7.2.   Regulations                                            20
+
+8. STUDENT POLICIES
+
+21
+
+8.1. Responsibility for Notices/Circulars and Correspondences and Acceptance Record 21
+
+8.2. NUS Student Data Protection Policy 8.3.
+NUS Code of Student Conduct 8.4.
+Risk Acknowledgement and Consent
+
+22 22 23
+
+©2023 NUS. All Rights Reserved.
+
+NUS IS5PF
+
+Nallanal UMY
+
+of snopare
+
+Master of Technology in Enterprise Business Analytics / Intelligent Systems / Software Engineering
+
+Page 3 of 25
+
+8.5.   NUS Do-Not-Call Policy                       23
+8.6.   NUS Student Confidentiality Agreement        23
+8.7.   NUS Intellectual Property Policy             24
+8.8.   NUS Acceptable Use Policy for IT Resources   24
+9.     ADDITIONAL REQUIREMENTS                      24
+9.1.   NUS Group Medical Insurance Scheme (GMIS)    24
+9.2.   Full-time Students and Employment            24
+9.3.   Video Recording during Lecture Hours         24
+10.    CONTACT INFORMATION                          25
+
+©2023 NUS. All Rights Reserved.
+
+NUS IS5PF
+
+Nallanal UMY
+
+of snopare
+
+Master of Technology in Enterprise Business Analytics / Intelligent Systems / Software Engineering
+
+Page 4 of 25
+
+1. INTRODUCTION
+
+1.1. Purpose
+
+1.1.1. The aim of this document is to describe the rules, regulations and procedures of the Institute of Systems Science, National University of Singapore (NUS-ISS) that are of particular relevance to the students of the Master of Technology (MTech) in Enterprise Business Analytics (EBAC), Intelligent Systems (IS) and Software Engineering (SE).
+
+1.1.2. All MTech students should ensure that they are familiar with the contents of the document, and abide by the rules, regulations and procedures described within.
+
+1.1.3. At all times, students are responsible for understanding and complying with the policies and procedures established by the National University of Singapore, including the "NUS Code of Student Conduct", which can be found at https://www.nus.edu.sg/osa/docs/default-source/osa-doc/resources-and- policies/code-of-student-conduct.pdf?sfvrsn=14040e3d_4.
+
+1.1.4. In addition, students must abide by the "NUS Acceptable Use Policy (AUP) for IT Resources", which can be found at https://inetapps.nus.edu.sg/comcen/security/policies/AUP%20v4.2.pdf.
+
+1.1.5. The University reserves the right to make any changes deemed necessary in the policies/requirements.
+
+1.2. Organisation of the Document 1.2.1.
+Section 2 describes the examination and capstone project regulations, and requirements for passing the degree.
+
+1.2.2. Section 3 describes the regulations concerning student attendance.
+
+1.2.3. Section 4 describes the regulations concerning tuition fee payment.
+
+1.2.4. The procedure for selecting Specialist Graduate Certificate is defined is Section 5.
+
+1.2.5. The general regulations concerning the use of NUS-ISS facilities are described in Section 6.
+
+1.2.6. Section 7 presents the regulations that apply to the use of NUS-ISS computer facilities.
+
+©2023 NUS. All Rights Reserved.
+
+NUS IS5PF
+
+Nallanal UMY
+
+of snopare
+
+Master of Technology in Enterprise Business Analytics / Intelligent Systems / Software Engineering
+
+Page 5 of 25
+
+2. EXAMINATION AND CAPSTONE PROJECT REGULATIONS
+
+2.1. Introduction
+
+2.1.1. The regulations for the MTech examinations organised by NUS-ISS, for all the Graduate Certificates offered by NUS-ISS, and for the MTech capstone project are described in the following sub-sections.
+
+2.2. Preparation for Examinations
+
+2.2.1. All examination papers (including appendices and attachments) are treated as confidential by NUS-ISS. All examination papers are collected at the end of each examination and accounted for before students are permitted to leave the examination hall.
+
+2.2.2. Examination papers are not available in the NUS Libraries.
+Hence past examination papers cannot be made available to MTech students.
+
+2.2.3. However, to assist students in their preparation for each examination, sample questions may be issued to students whenever possible.
+It should be noted that sample questions are not usually provided for new Graduate Certificate(s) in their first year of conduct.
+
+2.2.4. In addition, for some Graduate Certificates, preparatory reading material may be sent to each student prior to the examination.
+If such materials are to be issued, students will receive instructions (by e-mail) on downloading them from CANVAS. The student guide can be found here (https://canvas.nus.edu.sg/courses/21494).
+
+2.2.5. Each examination paper is organised as a series of 1 or more sections (e.g.
+section A, B, C etc).
+Each section contains 1 or more questions.
+You are required to answer ALL questions in the designated blank spaces provided within the examination paper itself.
+
+2.2.6. Revision sessions are not normally scheduled.
+However, such sessions may be arranged on request, subject to the availability of lecturers, classrooms etc.
+
+2.3. Organisation and Conduct of Examinations
+
+2.3.1. There may be changes from time to time in the rules, regulations, and procedures at the discretion of NUS-ISS. These changes from the rules, regulations and procedures will be communicated to all students via CANVAS for compliance.
+
+2.3.2. In the event of unexpected circumstances, e.g., pandemics, special arrangements such as virtual examinations and e-proctoring may be carried out as an alternative to what is described in this document.
+The rules, regulations, and processes for alternative modes of assessments or examinations will be separately sent to students at that point.
+
+©2023 NUS. All Rights Reserved.
+
+NUS IS5PF
+
+Nallanal UMY
+
+of snopare
+
+Master of Technology in Enterprise Business Analytics / Intelligent Systems / Software Engineering
+
+Page 6 of 25
+
+2.3.3. Assessments (Practice projects and written examinations if any) are held after the scheduled completion of every Graduate Certificate for full-time and part-time students.
+The assessments (written examinations if any) are held at the end of the semester in which the Graduate Certificate(s) is/are being offered.
+Practice projects are held throughout the conduct of the courses and/or at the end of scheduled completion of every course.
+
+2.3.4. The dates and time of the examinations each year for the Graduate Certificates conducted by NUS-ISS are shown in the MTech timetable that is issued to all students through CANVAS.
+
+2.3.5. Examinations that are held on a Saturday, normally begin at 9.00 am, 2.00 pm or 6.30 pm.
+Examinations that are held on a weekday evening normally begin at 6.30 pm.
+
+2.3.6. NO supplementary examinations will be arranged for students who miss any of the examinations.
+
+2.3.7. All students are required to sit according to a pre-defined seating plan that will be displayed outside the examination hall.
+
+2.3.8. Students will be allowed into the examination hall ten (10) minutes prior to the start of the examination.
+Students who complete an examination thirty (30) minutes or more before the official end time, will be permitted to leave the hall after handing in their examination papers.
+Otherwise, students will be required to stay in the examination hall until after the official examination end time and all the examination papers are accounted for.
+
+2.3.9. No examination papers (including appendices and attachments), used or unused, are to be removed from the examination hall by any student.
+At the end of each examination, all examination papers will be collected before any student can leave the examination hall.
+Any examination papers taken out of the hall will not be accepted for grading.
+
+2.3.10. Reference materials may be brought into the examination hall for open book examinations.
+There shall be NO sharing of reference materials among students.
+
+2.3.11. Students are permitted to bring a non-programmable calculator to any examination.
+However, computers of any form (e.g. laptop, tablet, smart phone, smart watch etc.) are not permitted to be used during an examination.
+Students who are caught to have used devices that give them an unfair advantage during the examination will be subjected to disciplinary action by the University.
+
+2.3.12. All students are requested to familiarise themselves with the instructions printed on each examination paper.
+
+2.3.13. Students must not write their names on the examination papers.
+Instead, they should write their NUS Student ID number in the space provided on the cover of each examination paper.
+
+2.3.14. No communication by word of mouth or otherwise between students is permitted during the examination.
+
+©2023 NUS. All Rights Reserved.
+
+NUS IS5PF
+
+Nallanal UMY
+
+of snopare
+
+Master of Technology in Enterprise Business Analytics / Intelligent Systems / Software Engineering
+
+Page 7 of 25
+
+2.3.15. Any student who wishes to communicate with an invigilator must raise his/her hand.
+2.3.16. A student must not leave his/her seat without the permission of an invigilator.
+2.3.17. The identity of all students taking the examination will be checked.
+Students are required to bring their NUS Student ID card and place them on their desks at the commencement of the examination for attendance taking.
+2.3.18. No smoking or eating is allowed in the examination hall.
+
+2.4. Illness Prior or During an Examination 2.4.1.
+If a student, on account of illness, is absent from all or part of an examination for a Graduate Certificate, then he/she may be permitted by the Board of Examiners to appear for a supplementary examination provided: (1) The illness has been reported to the MTech EBAC/IS/SE Programme Chief and Assessment & Programme Operations team (iss-aspa@nus.edu.sg).
+(2) The student has been examined by either:
+
+* The UHC Health Physician; or
+
+* Any other medical practitioner registered with the Singapore Medical Council
+
+(3) A medical report has been submitted to the MTech EBAC/IS/SE Programme Chief/ Assessment & Programme Admin team within forty-eight (48) hours of the absence.
+
+2.4.2. In the case of a medical report being submitted from a registered medical practitioner, the views of the UHC Health Physician may be sought by NUS-ISS before the Board of Examiners decides.
+
+2.4.3. Any fee payable for the medical examination above shall be paid by the student.
+
+2.4.4. If a student falls ill during an examination, then the student will be permitted to leave the examination to seek medical attention.
+The student should report to a registered medical practitioner for a medical examination and submit a medical report to the MTech EBAC/IS/SE Programme Chief/ Assessment & Programme Admin team within forty-eight (48) hours of the examination.
+
+2.4.5. In the case of a student who is ill during an examination but nevertheless completes the examination, this fact may be taken into account by the Board of Examiners provided the student has been examined by a registered medical practitioner and a medical report has been submitted to the MTech EBAC/IS/SE Programme Chief/ Assessment & Programme Admin team within forty-eight (48) hours of the examination.
+
+2.4.6. Important Note: The student must submit a medical report signed by the UHC Health Physician or any other medical practitioner registered with the Singapore Medical Council, giving information on his illness within forty-eight(48) hours of the conclusion of the examination.
+
+©2023 NUS. All Rights Reserved.
+
+NUS IS5PF
+
+Nallanal UMY
+
+of snopare
+
+Master of Technology in Enterprise Business Analytics / Intelligent Systems / Software Engineering
+
+Page 8 of 25
+
+2.5. Absence from an Examination
+
+2.5.1. A student who is absent from any examination for which he/she is eligible to sit, shall be deemed to have sat and failed the examination unless the Board of Examiners is satisfied that there is good, valid, and sufficient reason for his/her absence from the examination.
+2.5.2. Students who are absent from an examination shall provide the reasons for their absence in writing with necessary official supporting document(s) to the MTech EBAC/IS/SE Programme Chief and Assessment & Programme Operations team within forty-eight (48) hours of the examination.
+
+2.6. Failing an Examination and/or Practice Project(s)
+
+2.6.1. Practice Module comprises an examination portion and/or a project component, at the discretion of NUS-ISS. Students must obtain a grade of at least 'D' in each portion to be deemed to have passed the Practice Module.
+For fulfilling the minimum CAP requirement for a Graduate Certificate and an MTech degree, please refer 2.11 for more details.
+
+2.6.2. If a student is deemed to have failed the written examination, Practice Project(s) or both for a Graduate Certificate (either "Fundamental" or "Specialist"), subject to the approval of the Board of Examiners, the student may be permitted to retake their written examination, Practice Project(s) or both either by:
+
+(1) Self-study; or
+
+(2) Opt to retake the course(s) or entire Graduate certificate (full fees apply); and
+
+(3) In both above options, the grade will be capped at 'C+' for the subsequent attempt which can only be repeated once.
+
+2.6.3. If a student:
+
+(1) Fails both practice project(s) and written examination, he/she is required to retake both the practice project(s) and written examination.
+
+(2) Fails practice project(s) and passes written examination, he/she is required to retake the practice project(s) only.
+The candidate may be advised by ISS to retake the written exam as well (depending on the performance).
+
+(3) Passes practice project(s) and fails written examination, he/she is required to retake the written examination only.
+
+2.6.4. Each Practice Module will be charged for retake (S$214 per Practice Module or refer updated fee table on ISS website) regardless of whether student is retaking the Practice Project(s), written examination or both.
+
+2.6.5. NO supplementary examinations will be arranged for students who are deemed to have failed any of the examinations.
+
+©2023 NUS. All Rights Reserved.
+
+NUS IS5PF
+
+Nallanal UMY
+
+of snopare
+
+Master of Technology in Enterprise Business Analytics / Intelligent Systems / Software Engineering
+
+Page 9 of 25
+
+2.7. Practice Module
+
+2.7.1. All MTech students must obtain a pass grade for both the practice project(s) and the written examination for that Graduate Certificate to pass the Practice Module and hence pass the Graduate Certificate.
+Students who do not submit the practice project(s) will be judged to have unsatisfactory performance in the Practice Module and hence fail the Graduate Certificate.
+Therefore, students should make every effort to submit each practice project before the deadlines set by each course instructor.
+Failure to do so may result in the student failing the Graduate Certificate.
+
+2.8. Course-level Assessments
+
+2.8.1. MTech students are required to pass all the course-level assessments.
+
+2.8.2. Students may need to attend additional coaching sessions and re-assessments if they do not pass the required competency units.
+ISS reserves the right not to disclose any information on the course assessment process.
+
+2.9. Exemption from Assessments
+
+2.9.1. No students will be granted exemption for any Graduate Certificate examinations, practice projects and MTech capstone project.
+
+2.10. Capstone Project and Internship Regulations
+
+2.10.1. All MTech students are required to successfully complete a capstone project.
+For SE students, typically this will be team-based.
+Due to their nature, the EBAC and IS capstone projects can be performed on an individual basis but are usually undertaken by teams comprising of 2 to 4 members.
+
+2.10.2. Part-time students are expected to submit a proposal for their capstone project.
+For full-time students, it comes in the form of an internship.
+Typically, ISS solicits proposals from the industry, but the students are encouraged to solicit industry proposals on their own.
+
+(1) For part-time students, these proposals are normally submitted during the period of October - January of a candidate's first year of study.
+Upon approval of their proposal by NUS-ISS, students are normally expected to undertake their capstone project over the period of 7months with a possible extension of up to 12 months (depending on the complexity and nature of the project) during March - September of their second year of study.
+The actual duration is decided after discussing with the sponsor and ISS.
+
+(2) For full-time students, an accelerated schedule is required of them, such that they finish the capstone project by the end of the second and final semester of their study, their proposals are normally solicited by ISS during the period September - January of a candidate's first semester.
+Upon approval, students are expected to undertake their internship from March to July/August of their second and final semester.
+
+©2023 NUS. All Rights Reserved.
+
+NUS IS5PF
+
+Nallanal UMY
+
+of snopare
+
+Master of Technology in Enterprise Business Analytics / Intelligent Systems / Software Engineering Page 10 of 25
+
+2.10.3.
+
+2.10.4.
+
+2.10.5.
+
+2.10.6.
+
+2.10.7.
+
+2.10.8.
+
+The aim of the MTech capstone projects is to enable the students to put into practice the knowledge they acquire during the programme.
+To ensure that this aim is fulfilled, students are expected to deliver a pre-defined set of deliverables according to the pre-defined schedule.
+
+For full-time students, an extension to any of the deadlines in the pre-defined schedule of up to one month can be granted provided that extenuating circumstances can be presented to justify such an extension.
+
+Due to the nature of the EBAC and IS capstone projects, significant delays might be experienced due to the difficulties incurred in obtaining the data or solving the problem.
+Hence, extensions to the overall capstone project duration of 3-6 months may be granted for part time students provided that extenuating circumstances can be presented to justify such an extension.
+
+For part-time students, due to heavy work or family commitments, students may not have sufficient available time to commit to undertake their capstone project during their second year of study.
+In such circumstances, students may request to defer their capstone project until their third or fourth year.
+Such requests should be made in writing to the MTech Programme EBAC/IS/SE Chief prior to the commencement date of the capstone project.
+However, it should be noted that:
+
+(1) The maximum candidature period is five (5) years (not including two (2) years approved Leave of Absence) for part-time students and three (3) years (not including two (2) years approved Leave of Absence) for full-time students.
+The duration of LOA is subject to approval.
+
+(2) Students are required to pay capstone project fees during a year in which they do only capstone project work.
+
+The required output from the capstone project is a pre-defined set of deliverables.
+These deliverables might include project reports, presentations, software specifications, plans for solution deployment, actual software, user documentation, and audit reports etc.
+Students will be advised of the nature of the required deliverables prior to, or during, the commencement/design phase of the project.
+
+The capstone projects will be assessed by combining the assessment of all the deliverables.
+It should be noted that if individual deliverables are found to be unacceptable then students may be requested to undertake additional work to achieve the required standard.
+If necessary, an extension to the overall capstone project duration will be granted to facilitate the required additional work.
+However, the maximum extension in such circumstances would be as per rules articulated in 2.10.4 & 2.10.5.
+The conditions in para 2.10.6 would also apply.
+
+©2023 NUS. All Rights Reserved.
+
+NUS IS5PF
+
+Nallanal UMY
+
+of snopare
+
+Master of Technology in Enterprise Business Analytics / Intelligent Systems / Software Engineering Page 11 of 25
+
+2.11. Passing the Degree
+
+2.11.1. The MTech (EBAC) degree comprises 49 - 51 modular credits (MC) but may vary slightly depending on the exact combination of Graduate Certificates taken.
+For example, if a student takes LOA, they might choose a combination of Specialist Certificates other than that shown in Figure 1 below.
+Figure 1: Modular Credits
+
+Graduate Certificate Fundamental (Compulsory)               Number of Modular Courses   Modular Credit (MC)
+EBA5001: Analytics Project Management                       4                           10                 
+EBA5002: Business Analytics Practice                        4                           13                 
+Specialist (Choose ONE)                                                                                    
+EBA5003: Customer Analytics                                 3                           8                  
+EBA5006: Big Data Analytics                                 3                           10                 
+Specialist (Choose ONE)                                                                                    
+EBA5004: Practical Language Processing                      4                           12                 
+EBA5005: Specialized Predictive Modelling and Forecasting   3                           12                 
+Capstone Project (Compulsory)                                                                              
+EBA5007: Capstone Project in Data Analytics                 -                           6                  
+TOTAL                                                       -                           49 - 51            
+
+2.11.2. The MTech (IS) degree normally comprises 50 - 53 modular credits (MC) but may vary slightly depending on the exact combination of Graduate Certificates taken.
+For example, if a student takes LOA, they might choose a combination of Specialist Certificates other than that shown in Figure 2 below.
+
+Figure 2: Modular Credits
+
+Graduate Certificate Fundamental (Compulsory)      Number of Modular Courses   Modular Credit (MC)
+ISY5001: Intelligent Reasoning Systems             3                           11                 
+ISY5002: Pattern Recognition Systems               3                           13                 
+Specialist (Choose ONE)                                                                           
+ISY5004: Intelligent Sensing Systems               3                           10                 
+ISY5005: Intelligent Software Agents               4                           10                 
+Specialist (Choose ONE)                                                                           
+ISY5003: Intelligent Robotic Systems               3                           13                 
+EBA5004: Practical Language Processing             4                           10                 
+Capstone Project (Compulsory)                                                                     
+ISY5007: Capstone Project in Intelligent Systems   -                           6                  
+TOTAL                                              -                           50 - 53            
+
+©2023 NUS. All Rights Reserved.
+
+NUS IS5PF
+
+Nallanal UMY
+
+of snopare
+
+Master of Technology in Enterprise Business Analytics / Intelligent Systems / Software Engineering Page 12 of 25
+
+2.11.3. The MTech (SE) degree comprises 42 modular credits but may vary slightly depending on the exact combination of Graduate Certificates taken.
+For example, if a student takes LOA, they might choose a combination of Specialist Certificates other than that shown in Figure 3 below.
+Figure 3: Modular Credits
+
+Graduate Certificate Fundamental (Compulsory)            Number of Modular Courses   Modular Credit (MC)
+SWE5001: Architecting Scalable Systems                   4                           13                 
+SWE5001: Designing Modern Software Systems               4                           11                 
+Specialist (Choose ONE)                                                                                 
+SWE5002: Designing and Managing Products and Platforms   4                           12                 
+SWE5005: Securing Ubiquitous Systems                     4                           12                 
+Specialist (Choose ONE)                                                                                 
+SWE5003: Engineering Big Data                            3                           11                 
+SWE5004: Architecting Smart Systems                      3                           11                 
+Capstone Project (Compulsory)                                                                           
+SWE5007: Capstone Project in Software Engineering        -                           6                  
+TOTAL                                                    -                           53                 
+
+2.11.4. A grade point will be awarded for each examination/project taken by each candidate using the scheme presented in Figure 4 below.
+
+Figure 4: Grading Scheme for Examinations
+
+Standard Grading   Scheme      Grade Point
+A+                 85 - 100    5.0        
+A                  80 - 84.9   5.0        
+A-                 75 - 79.9   4.5        
+B+                 70 - 74.9   4.0        
+B                  65 - 69.9   3.5        
+B-                 60 - 64.9   3.0        
+C+                 55 - 59.9   2.5        
+C                  50 - 54.9   2.0        
+D+                 45 - 49.9   1.5        
+D                  40 - 44.9   1.0        
+F                  0 - 39.9    0.0        
+
+2.11.5. The cumulative average point (known as CAP) will be calculated for the courses taken by a student, weighted by the grade point value of each course.
+The final CAP of each student will include the grade point for the Capstone Project result.
+The formula for the CAP calculation is as below:
+
+CAP = Σ(module grade point * MCs assigned to module) Σ(MCs assigned to enrolled modules)
+
+©2023 NUS. All Rights Reserved.
+
+NUS IS5PF
+
+Nallanal UMY
+
+of snopare
+
+Master of Technology in Enterprise Business Analytics / Intelligent Systems / Software Engineering Page 13 of 25
+
+2.11.6. Students are required to satisfy the academic standing rules presented in figure 5 below.
+You may also refer here for NUS's continuation and graduation requirements.
+Figure 5: Academic Standing Rules
+
+Status of Student   Rule                                                                         
+Warning             CAP below 3.00 (but ≥2.50)                                                   
+Probation           CAP < 3.00 for 2 consecutive semesters CAP < 2.50                            
+Dismissal           CAP < 2.50 for 2 consecutive semesters CAP < 3.00 for 3 consecutive semesters
+
+2.11.7.
+
+2.11.8.
+
+2.11.9.
+
+2.11.10. 2.11.11.
+
+A warning letter will be issued for any semester in which their CAP falls below 3.00 (the CAP required for graduation) but is not lower than 2.50.
+
+A probation letter will be issued for any semester in which their CAP:
+
+(1) Falls below 2.50 or;
+
+(2) Falls below 3.00 for the second consecutive semester
+
+A student must achieve a final CAP of at least 3.00 in the attempted Graduate Certificates (i.e.
+4 Graduate Certificates for EBAC, 4 Graduate Certificates for IS, 4 Graduate Certificates for SE) including the Capstone Project grade point, to be awarded the MTech degree by NUS. A student must pass the Capstone Project/Internship to fulfil the graduation requirements, including a satisfactory report from his/her NUS-ISS advisor and organisation supervisor of the Capstone Project/Internship undertaken.
+
+Students must pass both written examination and practice project(s) for each Graduate Certificate, except for Graduate Certificates with no written examination.
+
+If a student has either failed the written examination, practice projects(s) or both for a Graduate Certificate (either "Fundamental" or "Specialist") or both, subject to the approval of the Board of Examiners, the student may be permitted to retake the written examination, practice project(s) or both either by:
+
+(1) Self-study or;
+
+(2) Opt to retake the modular course(s) or entire Graduate certificate (full fees apply); and
+
+(3) In both above options the grade will be capped at grade 'C+' for the subsequent attempt which can only be repeated once.
+Student who has failed twice in any of the Fundamental Graduate Certificates will not be permitted to proceed further and will be dismissed from the programme.
+
+©2023 NUS. All Rights Reserved.
+
+NUS IS5PF
+
+Nallanal UMY
+
+of snopare
+
+Master of Technology in Enterprise Business Analytics / Intelligent Systems / Software Engineering Page 14 of 25
+
+2.11.12. If a student:
+
+(1) fails both practice project(s) and written examination, he/she is required to retake both the practice project(s) and written examination.
+
+(2) fails practice project(s) and passes written examination, he/she is required to retake the practice project(s) only.
+The student may be advised by ISS to retake the written exam as well (depending on the performance).
+
+(3) passes practice project(s) and fails written examination, he/she is required to retake the written examination only.
+
+2.11.13. If students take more than the minimum number of Graduate Certificates, their CAP from the fundamental Graduate Certificate(s) and the best two of the Specialist Graduate Certificates will be taken and recomputed for their final CAP.
+
+2.11.14. Students who achieve a minimum grade 'C' in the Practice Module will be awarded the Graduate Certificate (Fundamental or Specialist) by NUS-ISS, excluding Capstone Project.
+
+2.11.15. NO repeat of Capstone Project is permitted if a student is deemed to have failed his/her Capstone Project.
+
+3. STUDENT ATTENDANCE REGULATIONS
+
+3.1. Introduction
+
+3.1.1. The regulations concerning the attendance by students of the MTech courses organised by NUS-ISS during the entire programme (i.e. the "Fundamental" and "Specialist" Graduate Certificates including Capstone Project) are described in the following subsections.
+
+3.2. Satisfactory Attendance 3.2.1.
+All students are required to maintain satisfactory attendance of the timetabled lectures and workshops.
+
+3.2.2. In particular, it should be noted that:
+
+(1) students who do not demonstrate satisfactory attendance during a course, may not be permitted to take the Graduate Certificate examinations; and
+
+(2) students who do not demonstrate satisfactory attendance throughout the whole degree programme, may not be awarded the MTech degree.
+
+3.2.3. The guideline for "satisfactory attendance" is as follows:
+
+©2023 NUS. All Rights Reserved.
+
+NUS IS5PF
+
+Nallanal UMY
+
+of snopare
+
+Master of Technology in Enterprise Business Analytics / Intelligent Systems / Software Engineering Page 15 of 25
+
+(1) Achieve at least 75% in attendance for all modular courses within each Graduate Certificate at all times with the exception of Capstone Project that requires 100% attendance.
+
+(2) Students cannot miss more than 1 lesson in any 4 or 5-day modular course.
+Failing which, student will have to retake the modular course.
+Only with valid reasons and with approval by the Management, student can be considered to meet the lecturer for individual make-up work.
+
+(3) Students cannot miss more than ½ day lesson in a 3-day modular course.
+Failing which, student will have to retake the modular course.
+Only with valid reasons and with approval by the Management, student can be considered to meet the lecturer for individual make-up work.
+
+For example: Maximum
+
+Grad Cert Modular
+
+no. of days
+
+Class
+
+Module Course Statistics
+
+Dates
+
+of absence from class
+
+Business Bootcamp 13- 14- 15- 16- 19- 1
+
+Analytics Practice
+
+Aug Aug Aug Aug Aug
+
+Text Analytics 27- 28- 29- - - 0.5 Aug Aug Aug
+
+3.3. Permitted Absence
+
+3.3.1. All students will be granted "permitted absence" if they are suffering from a medical condition on the day of a timetabled class, provided that a Medical Certificate (MC) from UHC Health Physician or any other medical practitioner registered with the Singapore Medical Council is submitted to isstrainingA@nus.edu.sg (for MTech EBAC/SE students) and isstrainingB@nus.edu.sg (for MTech IS students) within seven (7) days of the class being held.
+
+3.3.2. All students who are required to undertake their "Reservist Training" on the day of a timetabled class will be granted "permitted absence" provided they submit appropriate documents to isstrainingA@nus.edu.sg (for MTech EBAC/SE students) and isstrainingB@nus.edu.sg (for MTech IS students) within seven (7) days of the class being held.
+
+3.3.3. In addition, students who have urgent work commitments, which prevent them from attending a timetabled class, may be granted "permitted absence" provided that an explanatory letter is submitted by the student's employer to isstrainingA@nus.edu.sg (for MTech EBAC/SE students) and isstrainingB@nus.edu.sg (for MTech IS students) within seven (7) days of the class being held.
+
+3.3.4. For permitted absence, student should consult the lecturer for remedial clinic.
+
+©2023 NUS. All Rights Reserved.
+
+NUS IS5PF
+
+Nallanal UMY
+
+of snopare
+
+Master of Technology in Enterprise Business Analytics / Intelligent Systems / Software Engineering Page 16 of 25
+
+3.3.5. If the student is on medical leave on the day of the arranged clinic session, another make-up session will be arranged and must be completed before the examination.
+Otherwise, they would not be allowed to take the examination.
+
+3.4. Leave of Absence (or Deferment), Conversion of Academic Load and Withdrawal
+
+3.4.1. The typical student workload is as follows:
+
+(1) Part-time students attend two (2) Fundamental Graduate Certificates for EBAC/IS/SE and any two (2) Specialist Graduate Certificates followed by a Capstone Project in each of the first two years of the programme.
+
+(2) Full-time students attend two (2) Fundamental Graduate Certificate for EBAC/IS/SE and any two (2) Specialist Graduate Certificates followed by a Capstone Project in the 12 months duration of their study.
+
+3.4.2. Student will NOT be granted leave of absence (or deferment) or conversion of academic load during the first semester of their course of study except for unforeseen medical conditions.
+
+3.4.3. Request for conversion of academic load must be made prior to the start of the semester.
+
+3.4.4. If a student needs to temporarily suspend studying the course, then a Leave of Absence (also known as "Deferment of the course") may be granted for a minimum of one (1) semester and a maximum of four (4) semesters.
+
+3.4.5. The conditions on granting leave of absence are as follows:
+
+(1) An appropriate reason for the absence must be provided.
+
+(2) Request for leave of absence (or deferment) must be made prior to the start of the semester in which the leave will commence.
+
+(3) At least the first semester of the course is attended (including the associated practice projects and examinations).
+
+(4) The duration of candidature must not exceed 5 years for part-time students and 3 years for full-time students.
+
+(5) Leave of absence can be applied through the following link: https://www.nus.edu.sg/registrar/administrative-policies- procedures/graduate/leave-of-absence
+
+3.4.6. Students who decide to terminate their candidature are required to:
+
+(1) Submit their withdrawal in writing using the ISS Withdrawal Form in CANVAS (MTech in EBAC/IS/SE (Thru-train) > Files > Student Communication) and return the completed form to isstrainingA@nus.edu.sg (for MTech EBAC/SE students) and isstrainingB@nus.edu.sg (for MTech IS students).
+
+©2023 NUS. All Rights Reserved.
+
+NUS IS5PF
+
+Nallanal UMY
+
+of snopare
+
+Master of Technology in Enterprise Business Analytics / Intelligent Systems / Software Engineering Page 17 of 25
+
+(2) Return their NUS Student ID card to the Programme Operations team or destroy the card (by cutting it into pieces) and discard it.
+
+(3) Return all NUS-ISS' or NUS' property that is in their possession.
+
+4. TUITION FEE PAYMENT MATTERS 4.1.
+Introduction
+
+4.1.1. The regulations concerning payment of tuition fees for the MTech courses organised by NUS-ISS during the entire programme (i.e. the "Fundamental" and "Specialist" Graduate Certificates including Capstone Project) are described in the following subsections.
+
+4.1.2. The following shall define the terms and conditions for the payment of tuition fees.
+
+4.2. Billing and Refund
+
+4.2.1. Students are personally liable for tuition fees for the duration of their studies.
+Payment of semester fees should be received by NUS-ISS by the given due date indicated in the student bill.
+4.2.2. Tuition fees will be invoiced per semester.
+4.2.3. Tuition fee payment is to be made via the NUS-EduRec system.
+4.2.4. The terms and conditions for refund of tuition fees is as follows:
+
+Withdrawal Request Submitted Before 1st lesson of 1st modular course starts.                                                                                                                                                                                                                                                                                                                                                 Outcome Full Refund                                                                                                           
+For part-time students when classes are held on Saturdays, withdrawal notice reaches the Programme Operations team within three working days after the 1st lesson of 1st modular course. For full-time students, withdrawal notice reaches the Programme Operations team before the 2nd lesson of the 1st modular course; or by the 3rd working days after the 1st lesson of the 1st modular course, whichever is earlier.   Full Refund                                                                                                                   
+Otherwise: (e.g., after 2nd lesson of 1st modular course starts, or if withdrawal notice comes after the 3rd working day upon start of the 1st lesson) The same timeline applies to the subsequent modular courses.                                                                                                                                                                                                          Liable for 1st modular course fee. Charging subsidised amount for Singaporean and SPR who fulfils the attendance requirements.
+
+©2023 NUS. All Rights Reserved.
+
+NUS IS5PF
+
+Nallanal UMY
+
+of snopare
+
+Master of Technology in Enterprise Business Analytics / Intelligent Systems / Software Engineering Page 18 of 25
+
+4.3. Outstanding Fees
+
+4.3.1. Students with outstanding fees will not be allowed to sit for the examinations and henceforth, we will not be able to process the examination marking and upload the examination marks etc, if full payment is still not made by stipulated due date.
+The NSI shown in the NUS Education Records System (EduRec) will only be lifted when the full payment is made.
+
+5. SPECIALIST GRADUATE CERTIFICATES SELECTION PROCEDURE
+
+5.1. Introduction
+
+5.1.1. All MTech EBAC/IS/SE students are required to select any TWO (2) out of FOUR (4) Graduate Certificates in the Specialist areas.
+5.1.2. The following shall define the procedures for the selection of the Specialist Graduate Certificates.
+
+5.2. Selecting Specialist Graduate Certificates
+
+5.2.1. All Full-Time and Part-Time students in all programmes will have to select their specialist certificates at the start of the programme.
+5.2.2. All enrolments will be on a first come first served basis, and students are advised to logon to the e-Survey system once it is open for selection based on the information announced through CANVAS prior to the selection date.
+5.2.3. Students will NOT be permitted to change the selection for their Specialist Graduate Certificates once it is confirmed.
+
+6. REGULATIONS ON USE OF NUS-ISS FACILITIES
+
+6.1. Introduction
+
+6.1.1. To support the MTech modular courses within the "Fundamental" and "Specialist" Graduate Certificates organised by NUS-ISS, NUS-ISS provides classrooms and related facilities.
+The regulations on the use of these facilities are described in the following subsections.
+
+©2023 NUS. All Rights Reserved.
+
+NUS IS5PF
+
+Nallanal UMY
+
+of snopare
+
+Master of Technology in Enterprise Business Analytics / Intelligent Systems / Software Engineering Page 19 of 25
+
+6.2. Regulations
+
+6.2.1.
+
+6.2.2.
+
+6.2.3.
+
+6.2.4.
+
+6.2.5.
+
+6.2.6. 6.2.7.
+
+6.2.8.
+
+6.2.9. 6.2.10.
+
+All students should be appropriately attired (i.e. respectably dressed, clean and tidy) whether in NUS-ISS premises or in the NUS campus.
+Being well-dressed is also a show of respect for others around them and creates a positive impression with people they meet.
+Improper attire such as indecently revealing shorts, singlets, clothes with vulgar words or caricatures, as well as slippers meant for domestic use may give people an unfairly prejudicial impression.
+Students are advised to uphold this dress code in NUS-ISS.
+
+Students are required to carry their NUS Student ID card with them for identification whether in NUS-ISS premises or in the NUS campus.
+
+Students are permitted to invite guests into the NUS-ISS premises between 8am- 10pm.
+Guests found to remain in the building outside this time will be requested to leave.
+Non-NUS-ISS students, including NUS students, are considered as guests.
+For security reasons, students are requested to register their guests with the security guards at the ground floor Security Room prior to entry.
+Guests are not permitted to use the NUS-ISS computer facilities and have to remain either in the bISStro or at the open space waiting lounge while in the building.
+Students who fail to ensure compliance of these procedures concerning their guests will be subjected to disciplinary action.
+
+Only registered MTech students are permitted to attend MTech classes (i.e.
+lectures and workshops).
+If unregistered students are found on NUS-ISS premises attending MTech classes, they will be handed-over to the police and prosecuted as trespassers.
+Registered students that are found to have aided unregistered students to attend MTech classes will be subjected to disciplinary action, which may include being expelled from the programme.
+
+Course materials (uploaded in CANVAS) are provided to students for all the Fundamental Graduate Certificate courses they are required to attend and all the Specialist Graduate Certificate courses that they select.
+Course materials must not be circulated to anyone without prior approval, and any breach will be subjected to disciplinary action which may include being expelled from the programme.
+
+Students are permitted to park their cars in the NUS-ISS carpark.
+For parking details, please visit https://www.iss.nus.edu.sg/about-us/getting-to-nus-iss.
+
+The University believes in providing a healthy environment for everyone on campus.
+Smoking is strictly prohibited within the University premises and NUS- ISS premises.
+
+Eating or drinking is not allowed in the classrooms.
+We seek your co-operation in keeping the classrooms clean.
+
+NUS-ISS does not provide secretarial/administrative support to students.
+
+Students should not cause any damage to the walls and furniture in the classrooms.
+No nails, adhesives, thumbtacks, etc. are to be used on any part of NUS-ISS premises.
+If students are found to be responsible for the damage of any
+
+©2023 NUS. All Rights Reserved.
+
+NUS IS5PF
+
+Nallanal UMY
+
+of snopare
+
+Master of Technology in Enterprise Business Analytics / Intelligent Systems / Software Engineering Page 20 of 25
+
+items of NUS-ISS/NUS property, they will be liable to pay for repairs or replacements.
+
+6.2.11. Fire Drill Evacuation Procedures will be published in CANVAS in due course.
+Students are advised to familiarise themselves with the escape routes in the event of a fire at NUS-ISS Campus located at 25 Heng Mui Keng Terrace.
+
+6.2.12. Students will not be provided with stationery during their course of study.
+Neither will they be allowed to use equipment belonging to NUS-ISS be it PCs, printers, etc. except for those placed in the study rooms allocated for students' use.
+
+6.2.13. All students are advised to use their timetabled classrooms or discussion rooms.
+All rooms are shared resources.
+Please note that the security personnel have the authority to check on the identity of students.
+The building is open from 6am to 10pm.
+
+6.2.14. No furniture/equipment in the classrooms is to be removed without receiving prior permission from the NUS-ISS administrative staff.
+
+6.2.15. Students are permitted to use the pantry and water dispenser located at 25 Heng Mui Keng Terrace, at the bISStro or near the classrooms.
+
+7. COMPUTER FACILITIES REGULATIONS
+
+7.1. Introduction
+
+7.1.1. Students are given access to a range of NUS-ISS computer facilities.
+They are also be given the opportunity to use NUS IT facilities (by using NUSNET).
+7.1.2. The regulations concerning student use of NUS-ISS and NUS computer facilities are defined in the following subsection.
+
+7.2. Regulations
+
+7.2.1. In using NUS-ISS and NUS computer facilities, students should NOT do the following: (1) Give their NUSNET ID or password to another person.
+
+(2) Give any NUSNET ID or password not belonging to them to another person.
+
+(3) Use the computing facilities for any non-University purpose.
+
+(4) Access another person's files without proper and appropriate permission.
+
+(5) Obtain computer services fraudulently -- e.g. by using another person's NUSNET ID or password.
+
+©2023 NUS. All Rights Reserved.
+
+NUS IS5PF
+
+Nallanal UMY
+
+of snopare
+
+Master of Technology in Enterprise Business Analytics / Intelligent Systems / Software Engineering Page 21 of 25
+
+(6) Enter anything confidential, distasteful, or prejudicial to the good name of the University.
+
+(7) Deny or degrade another person's legitimate access to the computing facilities.
+
+(8) Copy programs, data, or documentation protected by copyright or by special license.
+
+(9) Change the hardware (including power and network cables) or software configuration of any NUS-ISS or NUS machine without an instructor's permission.
+
+(10) Install any software on any NUS-ISS or NUS machine without an instructor's permission.
+
+7.2.2. It should be noted that NUS-ISS and NUS reserve the right to take disciplinary proceedings against anyone who conducts themselves in an irresponsible manner or abuses the computing facilities.
+
+8. STUDENT POLICIES
+
+8.1. Responsibility for Notices/Circulars and Correspondences and Acceptance Record As registered students of NUS, you have an email account through NUS. All communications from the University administration to students will be via this Official email account.
+As such, you are expected to check this account regularly.
+You are also expected to be aware of the latest notices/circulars that may be posted on myPortal@sNUS (Student Portal) - Announcements.
+All emails sent by the students, would have to include the students' matriculation number and full name as shown below.
+Emails without clear indication of students' identity will not be processed.
+
+Subject: XXXXXXXXXXXXXXXXX
+
+Student name: Chan Mei Mei
+
+Student ID: A0123456J
+
+Dear XXXX,
+
+©2023 NUS. All Rights Reserved.
+
+NUS IS5PF
+
+Nallanal UMY
+
+of snopare
+
+Master of Technology in Enterprise Business Analytics / Intelligent Systems / Software Engineering Page 22 of 25
+
+8.2. NUS Student Data Protection Policy
+
+NUS take responsibilities under the Personal Data Protection Act 2012 seriously.
+We also recognize the importance of the personal data you have entrusted to us and believe that it is our responsibility to properly manage, protect and process your personal data.
+
+This policy is designed to assist you in understanding how we collect, use and/or disclose the personal data you have provided to us, as well as to assist you in making an informed decision before providing us with any of your personal data.
+8.3. NUS Code of Student Conduct
+
+NUS students are expected to always maintain and uphold the highest standards of integrity and honesty, as well as embrace community standards, diversity and mutual respect for one another, both within the University and the wider Singapore community.
+
+The Code of Student Conduct (published by the Office of Student Affairs) is intended to guide students' conduct in both the academic and non-academic aspects of their University life by providing an overview of the behavior generally expected of them as a member of the University community.
+
+One of the fundamental principles on which this Code is based is that of "Academic, Professional, and Personal Integrity".
+
+In this respect, it is important to note that all students share the responsibility for upholding the academic standards and reputation of the University.
+Academic honesty is a necessary condition in the pursuit and acquisition of knowledge, and the University expects each student to uphold academic honesty.
+
+Academic dishonesty is any misrepresentation with the intent to deceive, or failure to acknowledge the source, or falsification of information, or inaccuracy of statements, or cheating at examinations/tests, or inappropriate use of resources.
+There are many forms of academic dishonesty and plagiarism is one of them.
+Plagiarism is generally defined as 'the practice of taking someone else's work or ideas and passing them off as one's own' (The New Oxford Dictionary of English).
+The University does not condone plagiarism.
+
+Students should adopt this rule - You have the obligation to make clear to the assessor which is your own work, and which is the work of others.
+Otherwise, your assessor is entitled to assume that everything being presented for assessment is being presented as entirely your own work.
+This is a minimum standard.
+In addition, the following guidelines will provide some assistance.
+
+When using the ideas, phrases, paragraphs and data of others in work presented for assessment, such materials should be appropriately credited and acknowledged, so that it is clear that the materials being presented is that of another person and not the student's own.
+
+The amount of detail required when referencing and acknowledging a source will vary according to the type of work and norms of the discipline.
+For instance,
+
+* Supervised examinations will require less detail in referencing and acknowledgement.
+
+* Papers written other than under examination conditions will require a full citation of all the sources utilised.
+While a particular style of citation is not prescribed, the citation should provide enough information for the reader to locate the sources cited.
+Research materials (including texts, graphics and data) obtained from the internet or other
+
+©2023 NUS. All Rights Reserved.
+
+NUS IS5PF
+
+Nallanal UMY
+
+of snopare
+
+Master of Technology in Enterprise Business Analytics / Intelligent Systems / Software Engineering Page 23 of 25
+
+electronic resources should be treated in the same way as research materials obtained from traditional sources.
+
+Any student found to have committed or aided and abetted the offence of plagiarism may be subject to disciplinary action.
+In addition, the student may receive a reduced grade (possibly even zero mark) for the relevant academic assignment, project, or thesis; and could receive a failed grade for the module.
+Any student caught plagiarising will be required to retain the plagiarised module as graded, and will not be allowed to exercise the S/U option for that module.
+
+A student may not knowingly intend to plagiarise, but that should not be used as an excuse for plagiarism.
+Students should seek clarification from their instructors or supervisors if they are unsure whether they are plagiarising the work of another person.
+All students are also encouraged to:
+
+* use the service provided by the Centre for Instructional Technology (CIT) to help detect and prevent web-based plagiarism
+
+8.4. Risk Acknowledgement and Consent
+
+In the course of their studies, students may participate in activities (whether local or overseas) organised or endorsed by the University as part of their course of study or as part of co- curricular activities or courses offered by the University.
+Students may also be accommodated in the University's hostels or may use the University's sports, recreation and other facilities.
+All students are required to agree to the terms prescribed by the University in connection with such participation and use.
+
+8.5. NUS Do-Not-Call Policy
+
+The University must comply with the Personal Data Protection Act 2012 (PDPA) and the Do Not Call (DNC) regime/framework.
+The PDPA aims to protect individuals' personal data against misuse, while promoting proper management of personal data in organizations.
+
+The PDPA requires that organizations collecting, using and disclosing personal data notify their consumers of the purposes of such data activities and seek the consent of these individuals.
+Personal data is defined as data about an individual who can be identified from that data.
+The DNC Registry will allow individuals with Singapore telephone numbers to opt out of unsolicited marketing calls, messages and faxes.
+
+NUS must fully comply with the PDPA. To this end, NUS has developed a DNC Policy with our legal consultants to ensure compliance from our community.
+
+8.6. NUS Student Confidentiality Agreement
+
+All NUS students are required to acknowledge and agree to comply with the terms stated in the NUS Student Confidentiality Agreement.
+Students should keep absolutely confidential any Confidential Information, whether belonging to the University or other third parties be it in writing or verbally in the course of their studies, internships, attachments and/or student life at the University.
+
+Unless express written permission has been given by the relevant authority at the University or the third party that owns or otherwise is in control of the Confidential Information, students should not discuss, release, retain, copy or remove any document or data in any format.
+
+©2023 NUS. All Rights Reserved.
+
+NUS IS5PF
+
+Nallanal UMY
+
+of snopare
+
+Master of Technology in Enterprise Business Analytics / Intelligent Systems / Software Engineering Page 24 of 25
+
+Students found to have made unauthorised release of Confidential Information may be subject to immediate termination of their attachment, internship, assistantship, departmental work (paid or unpaid), or such other disciplinary action as the University may deem appropriate.
+
+8.7. NUS Intellectual Property Policy In addition to the provision of educational facilities at tertiary levels, the functions and objectives of the University include the promotion of research and scholarship and the advancement and dissemination of knowledge for the benefit of all.
+Consistent with its status as a publicly funded organisation, it is critical that the University ensures that the creation, dissemination and commercialisation of Intellectual Property is properly administered for the benefit of the public and the University.
+This Policy shall therefore apply to all Intellectual Property developed or created by a University member, including students, in the course of University research.
+The Industry Liaison Office manages all such issues.
+
+8.8. NUS Acceptable Use Policy for IT Resources This policy applies to the use of the IT resources owned, controlled or managed by the University, such as computer accounts, personal computers, servers, workstations, disk storage, software, administrative and academic applications, email, public folders, newsgroups, online discussion forums, dialup, network, Internet and databases, among others.
+All users who have been granted access to the IT resources, including students of the University, are to comply with this policy.
+Please click here for the guidelines for the Acceptable Use Policy.
+
+9. ADDITIONAL REQUIREMENTS
+
+9.1. NUS Group Medical Insurance Scheme (GMIS)
+
+All full-time matriculated undergraduate, graduate and non-graduating students are required to subscribe to an insurance scheme provided by the University.
+
+More information on this medical insurance scheme can be found here.
+
+9.2. Full-time Students and Employment
+
+University education at NUS is demanding, intensive, and rigorous, and thus requires a high degree of commitment.
+Full-time students are expected to commit themselves to at least 40 hours of study per week.
+The University strongly discourages full-time students from taking up employment during term time that might interfere with their studies.
+Students should note that commitments from employment will not be accepted as valid reasons for absence, uncompleted work, late submission of work, or poor performance, and may lead to exclusion from certain full-time programmes.
+
+9.3. Video Recording during Lecture Hours Please note that, there is no video recording of the lecture is allowed in the classroom, unless
+
+©2023 NUS. All Rights Reserved.
+
+NUS IS5PF
+
+Nallanal UMY
+
+of snopare
+
+Master of Technology in Enterprise Business Analytics / Intelligent Systems / Software Engineering Page 25 of 25
+
+otherwise, approved and agreed by the University.
+Any students found recording without permission, will be asked to delete the content immediately with supervision of the lecturer in charge for the day.
+
+10. CONTACT INFORMATION MTech Programme Chiefs:
+
+Enterprise Business Analytics   Dr Rita Chakravarti   issritac@nus.edu.sg
+Intelligent Systems             Dr Zhu Fangming       isszfm@nus.edu.sg  
+Software Engineering            Mr Heng Boon Kui      isshbk@nus.edu.sg  
+
+For Postgraduate Programme Enquiries: General Enquiries Tel: (65) 6516 2093 Email: ask-iss@nus.edu.sg
+
+Current Students & Other Administrative Matters
+
+MTech EBAC/SE Email: isstrainingA@nus.edu.sg
+
+MTech IS Email: isstrainingB@nus.edu.sg
+
+Exam Related Matters Email: iss-aspa@nus.edu.sg
+
+©2023 NUS. All Rights Reserved.
+
+NUS IS5PF
+
+Nallanal UMY
+
+of snopare
