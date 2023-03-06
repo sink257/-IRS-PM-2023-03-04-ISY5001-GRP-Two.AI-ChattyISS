@@ -16,7 +16,7 @@
 | :------------ |:---------------:| :-----| :-----|
 | Lee Kah Wai | A0019705H | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| e1111840@u.nus.edu |
 | Wee De Li, Darren | A0269370X | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| e1112241@u.nus.edu |
-| Seow Tech Han, Michael | A0270178B | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| e1117140@u.nus.edu |
+| Seow Teck Han, Michael | A0270178B | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| e1117140@u.nus.edu |
 | Sankalp | A0226756W | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| sankalp@u.nus.edu |
 
 ---
