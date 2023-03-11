@@ -1,0 +1,481 @@
+of NgYlf Sf n E I SC
+
+Frequently Asked Questions
+
+COVID-19 FAQ on Admissions
+
+COVID-19 FAQ on Admissions: I prefer attending in-person classes.
+Will NUS-ISS consider postponing the start of the semester?
+a. We will follow the guidelines prescribed by the University.
+b. At this point, there will be no postponement of the semester
+
+COVID-19 FAQ on Admissions: What are the plans by NUS-ISS regarding the delivery of classes?
+a. We have been conducting existing graduate classes online.
+Classes remain face-to-face and are mediated by Zoom.
+b. Currently, we have students taking the programme from countries outside Singapore as some were unable to return to Singapore before travel restrictions were imposed.
+c. Workshops were also done online, primarily in Zoom Breakout Rooms for group discussions.
+d. Compute requirements were done either on the students' own computers, in the cloud (Github, CoLab, etc.) or even using the Singapore National Super Computing Centre (NSCC).
+e. We have a few courses using shared robot hardware.
+These are replaced with using software simulators, which is what our current students are doing.
+
+COVID-19 FAQ on Admissions: How effective are the online classes?
+a. Our existing students have been doing well with Zoom mediated classes.
+Please note that these are not "e- learning" classes where students watch videos.
+An instructor is present in the class, and it is still face-to-face and is mediated through Zoom.
+We noticed that our students ask more questions compared to being in a physical classroom, answer each others' questions and are generally engaged throughout the lecture.
+b. b. The litmus test of "effectiveness" is the students' performance during exams.
+Last semester, we ran exams online, with e-proctoring through Zoom video.
+The exams are similar in length and difficulty as our past exams and students are performing as expected.
+
+COVID-19 FAQ on Admissions: Would online learning hamper the interaction between faculty staff and students?
+a. Our classes are synchronous (real-time) learning with face-to-face interaction with the lecturer and peers in virtual classrooms.
+These are not e-learning classes where students watch videos, learn at their own pace and non-immersive.
+b. Our lecturers are present in all face-to-face classrooms.
+Students are expected to have the video in their computers running during class and to use chat and responses in Zoom to give real-time feedback.
+Lecturers monitor students through their videos similar to a physical classroom and monitor the chat for questions and problems.
+c. In our virtual classroom environment, our students experience dynamic learning with more than just lectures.
+With videoconferencing and online tools like a shared whiteboard, Google Docs, Google Meet and Microsoft Teams, our students form their own virtual study groups which enable them to brainstorm ideas, facilitate
+
+discussions and work together on assignments.
+While the experience is different, students are effective in their learning.
+
+COVID-19 FAQ on Admissions: If classes are conducted online, can we stay home or is it necessary to travel to NUS-ISS once the Circuit Breaker period is over?
+a. NUS will have guidelines and clarifications on the opening of the campus.
+Students will adhere to these guidelines which will change as the situation progresses.
+b. There will be lab classes and workshops which require coming to campus.
+These will be detailed as and when appropriate.
+
+COVID-19 FAQ on Admissions: If international students are unable to obtain ICA/ MOE's permission for entry into before, during or after the semester, what should they do?
+a. The administrative guidelines for entry into Singapore will have been given to you.
+This follows Singapore's immigration rules and will change as the situation changes.
+b. If you are unable to enter Singapore during this semester, then the entire semester will be done through synchronous learning using Zoom.
+We have current students in that situation.
+c. If the situation continues for the next semester, we will consider alternatives and replacements for the Internship Requirements, and possibly allowing you to delay for a semester and come to Singapore the following year.
+The options are still open at this point.
+
+COVID-19 FAQ on Admissions: What if students are unable to come to Singapore to complete the internship?
+What will be the arrangement?
+a. We will consider alternatives and replacements for the Internship Requirements, and possibly allowing you to delay for a semester and come to Singapore the following year, without penalties or additional fees.
+
+COVID-19 FAQ on Admissions: If the classes are online, students will not be able to use most of the facilities in the campus.
+Will there be any reduction of tuition fees since the experience will be compromised?
+a. All NUS-ISS facilities will be used.
+The local students and those who have managed to come to Singapore will be using the facilities.
+b. The kind of experience you will get in a mixed classroom (some students attending via Zoom) is different.
+It doesn't mean that it is compromised.
+c. As mentioned above, the effectiveness of education is whether the students become competent in the skills.
+
+COVID-19 FAQ on Admissions: Can NUS-ISS help me extend my Student's Pass validity period, so that I have more time to look for a job in Singapore?
+a. NUS complies with the immigration laws of Singapore.
+The validity of student passes is subject to the guidelines from the relevant government agencies.
+
+COVID-19 FAQ on Admissions: What are the job prospects and will there be any further support on career services?
+a. NUS' position is that you come to NUS for the quality of the education you receive.
+b. All our degrees are designed to meet the skills required in high demand job roles.
+c. We provide a suite of career services to employers, alumni, course participants and students for job placements and advisory.
+d. You may also explore a range of future-ready resources, managed by the Centre for Future-ready Graduates (CFG).
+CFG is a new-era career centre that helps NUS students and organisations thrive in a world of constant change, ensuring they are truly ready for the future by providing students with access to career-
+
+readiness programmes, career and internship opportunities, professional career advisory and valuable industry insights.
+
+COVID-19 FAQ on Admissions: Where do I obtain latest updates from NUS in responding to Covid-19 situation?
+a. You are advised to always check out the latest updates provided by NUS Office of Student Affairs.
+
+Programme- related
+
+What is the difference between Stackable Graduate Certificate programmes leading to Master of Technology (MTech) qualification versus the traditional MTech programmes?
+Stackable Graduate Certificate programmes offered by NUS-ISS are an alternative pathway for continuing education.
+Participants will have the flexibility of studying at their own pace by taking the required modular courses that make up the respective Graduate Certificates to meet their needs and may wish to go on to stack their Graduate Certificates into a Masters qualification.
+For participants taking the traditional MTech they will follow the individual programme academic timetable.
+
+What is the duration of the MTech (full-time and part-time) programmes taken via the traditional pathway?
+The duration for MTech (full-time) programme is 1 year (i.e.
+2 semesters) and the duration for MTech (part-time) programme is 2 years (i.e.
+4 semesters).
+
+What is the duration of the Stackable Graduate Certificate programmes leading to MTech qualification via stackable pathway?
+The maximum validity period for a Graduate Certificate is 5 years for matriculation into MTech.
+The maximum period of study for MTech Capstone project is 1 year (undertaken within 2 years after matriculation); hence, an MTech that is undertaken via the stackable pathway must be completed within 7 years.
+
+When does the 5 years' timeframe for a Stackable Graduate Certificate programme apply in order to matriculate to the Master's programme?
+Participants will be given 5 years to complete the Graduate Certificate.
+The 5 years for matriculation to the Master's programme will start from the completion of the first Graduate Certificate.
+
+Will there be any entrance test and interview for taking Stackable Graduate Certificate programmes leading to MTech qualification similar to the shortlisting process in traditional MTech programmes?
+No, there will not be any entrance test or interview conducted for participants who are taking the Stackable Graduate Certificate programme.
+However, some of the modular courses have prerequisites.
+To be awarded a Graduate Certificate, participants are required to be deemed "Competent" at all the individual modular course level, and achieved a pass in the Practice Module which consist of a graded project and written assessment.
+If they wish to stack their Graduate Certificates into a Masters qualification, they are required to satisfy the following requirements at the time of matriculation before they commence on the graded Capstone Project. (i.e. after having completed one (Software Engineering) or two (Enterprise Business Analytics/Intelligent Systems) Fundamental Graduate Certificates and any two Specialist Graduate Certificates): • Possess the equivalent of an NUS 4-year undergraduate degree, preferably in Science or Engineering or demonstrate equivalent academic skills • Demonstrate high levels of proficiency in the Graduate Certificates, with a minimum Cumulative Average Point (CAP) of 3.0 in each of the Certificates • Have received a favourable assessment at an admissions interview conducted by ISS
+
+Which are the Fundamental and Specialist Graduate Certificates?
+Graduate Certificates in the area of Business Analytics (Stackable Pathway):
+
+• Graduate Certificate in Analytics Project Management (Fundamental) • Graduate Certificate in Business Analytics Practice (Fundamental) • Graduate Certificate in Customer Analytics (Specialist) • Graduate Certificate in Practical Language Processing (Specialist) • Graduate Certificate in Advanced Predictive Modelling and Forecasting (Specialist) • Graduate Certificate in Big Data Engineering and Web Analytics (Specialist) Graduate Certificates in the area of Intelligent Systems (Stackable Pathway): • Graduate Certificate in Intelligent Reasoning Systems (Fundamental) • Graduate Certificate in Pattern Recognition Systems (Fundamental) • Graduate Certificate in Intelligent Robotic Systems (Specialist) • Graduate Certificate in Intelligent Sensing Systems (Specialist) • Graduate Certificate in Intelligent Software Agents (Specialist) • Graduate Certificate in Practical Language Processing (Specialist) Graduate Certificates in the area of Software Engineering (Stackable Pathway): • Graduate Certificate in Architecting Scalable Systems (Fundamental) • Graduate Certificate in Designing and Managing Products and Platforms (Specialist) • Graduate Certificate in Engineering Big Data (Specialist) • Graduate Certificate in Architecting Smart Systems (Specialist) • Graduate Certificate in Securing Ubiquitous Systems (Specialist)
+
+What is the class timing for Stackable Graduate Certificate programmes?
+Are there any weekend classes?
+Participants taking the modular courses under Stackable Graduate Certificate programmes can schedule their courses using the NUS-ISS Executive Education Calendar.
+The modular courses are usually conducted on weekdays from 9am — 5pm and each course is typically 3-5 contact days.
+Due to limited resources, the modular courses are not offered on weekends.
+
+Will there be any fees incurred for Practice Modules and Capstone Project undertaken via the Stackable Pathway?
+Yes, there will be fees incurred for Practice Modules and Capstone Project.
+The finalised fee table will be published in NUS-ISS website in due course.
+
+Is tuition fee loan or scholarship available for Stackable Graduate Certificate programmes?
+Currently, there are no tuition fees loan or scholarships extended to Stackable Graduate Certificate programmes.
+
+Is Service Obligation Scheme offered by Ministry of Education (MOE) available for Stackable Graduate Certificate programmes ?
+The Service Obligation scheme is not available to Stackable Graduate Certificate programmes.
+
+I am an international participant residing overseas.
+Can I apply for a Student's Pass to attend Stackable Graduate Certificate programmes?
+Only international students successfully admitted to the traditional MTech full-time programme will be eligible for application and issuance of Student's Pass, subject to Singapore Immigration & Checkpoints Authority's approval.
+
+Is there any order when taking the modular courses within each Graduate Certificate?
+There are no particular order in which the modular courses are to be completed.
+However, we strongly encourage participants to complete the modular courses shown in the learning pathway, as there may be prerequisites for each modular courses.
+
+How do I sign up for the Graduate Certificates?
+
+Participants can sign up for the individual modular courses within each Graduate Certificate via NUS-ISS website.
+
+I am enquiring on the Stackable Graduate Certificate programmes on behalf of my company concerning staff training.
+Where can I find out more information?
+
+Please send your enquiry to
+
+Executive Education/Stackable
+
+• Executive Education Programmes • Graduate Certificate • Professional Certificates • Professional Diploma
+
+Discipline
+
+• Data Science
+
+• Software Systems • Smart Systems & Platforms
+
+• Artificial Intelligence
+
+• StackUp — Startup Tech Talent Development • Digital Solutions Development
+
+• FullStack Software Development
+
+• Digital Strategy & Leadership
+
+• Digital Products & Platforms
+
+• Digital Agility
+
+• Digital Innovation & Design
+
+• Smart Health Leadership
+
+• Cybersecurity
+
+Contact Number Email Address
+
+6516 5409 6516 5037 isstrainingA@nus.edu.sg 6516 6153
+
+6516 5409 6601 7926 6516 1047
+
+6601 7921 6516 1206 isstrainingB@nus.edu.sg
+
+6601 3211
+
+6516 7829
+
+6601 5630
+
+6601 6727
+
+6601 2391
+
+6601 2706
+
+6601 6727
+
+6601 1167
+
+isstrainingC@nus.edu.sg
+
+I have seen some of the courses overlapping in other Graduate Certificates.
+Are the courses the same?
+
+Yes. For example, in the Stackable Graduate Certificate programme in Smart Systems and Platforms, Big Data Engineering for Analytics is also part of the modular course offered under the Stackable Graduate Certificate programme in Data Science.
+
+If I have taken some modular courses via the Stackable pathway, and I decide to apply for traditional MTech programme, would the assessment results be counted towards the Cumulative Average Point (CAP)?
+By taking the modular courses via stackable pathway, the assessment results cannot be counted towards the Cumulative Average Point (CAP) under the MTech programme.
+Achieving a "Competent" grade in the modular courses is a requirement before attempting the Practice Module.
+The grades achieved in the Practice Module assessments at the Graduate Certificate level will be counted towards CAP.
+
+Am I allowed to convert from stackable pathway to traditional MTech pathway and received exemptions from the modular courses I have completed (having been graded `Competent')?
+A participant who is interested in traditional pathway of MTech programme is required to submit the online application with application fee payment before the closing date.
+He/she has to go through the entire application and shortlisting process including attending entrance test, interview etc.
+Upon successfully admission into the programme, the participant can submit his/her request for exemption by sending an email to iss-admissions@nus.edu.sg.
+Please note that each request will be subjected to approval.
+Exemptions will be considered only for courses that are taken within the last 5 years.
+
+I had completed some Executive Education Programme (EEP) modular courses in the past and I wish to enrol for the remaining modular courses and get the Graduate Certificate.
+Is it possible?
+Participants who had already completed some EEP courses in the past can enrol for the remaining modular courses.
+However, these completed modular courses must be taken within the last 5 years.
+To be awarded a Graduate Certificate, participants are required to be deemed competent at all the individual modular course level, and achieved a pass in the Practice Module, which consist of a graded project and written assessment.
+
+May I know how are the Practice Module and Capstone Project conducted?
+A Practice Module can only be taken after completing and passing all the required modular courses in the Graduate Certificate.
+It consists of a graded project and written assessment.
+The graded project will require participants to tackle one or more real world problems and apply the concepts learned from the modular courses.
+These projects may be selected from their own organisations or other NUS-ISS approved sources.
+The written assessment are held twice a year, in May and Nov, during weekday evenings and/or Saturdays.
+A briefing session will be conducted after a participant is deemed "Competent" in all the modular courses in the Graduate Certificate, and wish to take the Practice Module to be awarded the Graduate Certificate.
+To be awarded with an MTech degree, every student is required to successfully complete a 'Capstone Project'.
+These projects will typically take the form of a consulting engagement for a sponsoring organisation and will provide students with the opportunity to practice their newly acquired skills as part of a team working on a real-life project.
+These projects also enable sponsoring organisations to experience and assess new technologies, techniques and methods.
+For full-time students, the project is in the form of 12-week internship.
+For part-time students or students taking stackable programme pathway, the project will be conducted over a 6 — 12 month period.
+The sponsoring organisation may be the employer of one of the team members.
+We encourage students to source suitable projects in advance, from either within their own organisations or from other approved sources.
+
+I am only interested in signing-up for the Graduate Certificates and have no intention to stack up to complete MTech?
+Am I allowed to do so?
+Certainly! These modular courses are designed to provide essential skills for the digital economy and encourage lifelong learning.
+
+Is it compulsory to submit GRE score to support my application for Graduate Certificate programmes?
+
+Applicants can submit GRE score to support his/her admission but it is not mandatory.
+Most importantly, a candidate must be able to demonstrate his/her competencies and pass the Practice Module with a minimum C grade in order to be awarded a Graduate Certificate.
+In order to obtain an MTech by stacking-up Graduate Certificates, a minimum CAP of 3.0 (B-) across all the Graduate Certificates must be obtained as well as meeting some other requirements as listed earlier.
+
+Am I able to transfer learning credits from other training providers to NUS-ISS Stackable Graduate Certificate programmes?
+Due to existing restrictions, participants are not able transfer the credits earned in other training providers to any NUS-ISS Stackable Graduate Certificate programmes.
+
+What happens if I do not pass the assessment for the modular course?
+Participants may need to attend additional coaching sessions and re-assessments if they do not pass.
+NUS-ISS reserves the right not to disclose any information on the course assessment process.
+
+Can I check on the payment process for the Stackable Graduate Certificate programme?
+Participants will be invoiced for individual modular courses instead of payment for the Graduate Certificate.
+
+What should I do if I did not pass the Practice Module?
+Can I still be awarded the Graduate Certificate?
+There will be no supplementary assessments for participants who fail the Practice Module.
+Participants can either self-study or opt to retake the failed module, and reassessment fees are applicable.
+They could also retake the entire Graduate Certificate (fees applicable) to fulfil the minimum CAP requirement for the Graduate Certificate.
+There will be a maximum grade capped for retaking any assessments.
+
+How and when will the grading be carried out (through individual modular courses or Practice Module) in order to be awarded the Graduate Certificate?
+
+The Practice Module (i.e. projects and assessments) will be graded.
+Participants taking the Graduate Certificate are required to achieve competency in every modular course and pass the Practice Module (i.e. achieve a minimum of C) in order to be awarded a Graduate Certificate.
+
+Students taking the MTech traditional pathway do not have to take a Practice Module in order to obtain each Graduate Certificate; does this mean that the traditional pathway is easier than the stackable pathway?
+No, definitely not!
+Both pathways are equally rigorous.
+For the MTech traditional pathway, each Practice Module (graded projects and assessments) is interleaved with the class days, i.e. is taken in parallel with the Graduate Certificate classes rather than at the end of the Graduate Certificate.
+The examinations for the Practice Module will
+
+be conducted at the end of each semester in May and November.
+
+How do I claim PDU with Project Management Institute (PMI)?
+From 1 April 2020, NUS-ISS will no longer be participating in the PMI R.E.P programme.
+However, participants can still claim PDUs under category "Courses from other third party providers".
+As a PM practitioner, each participant will need to decide how many PDUs to claim (it is no longer the pre-approved number) under each category.
+The process is as listed below: 1.
+Log into your PMI account http://ccrs.pmi.org 2.
+Select "Report PDUs" 3.
+Select "Course or Training" option 4.
+For Provider, please type "Institute of Systems Science, National University of Singapore".
+Indicate the type in the required information (e.g. provider name, activity name, dates, and number of PDUs).
+If you have provided an activity number, please do not use it — please type the name of the course in the Activity field instead.
+Please do not select any course or provider from the drop-down menu 5.
+For Course, please type course title as printed on your Certificate of Attendance (Do not select an option from the drop-down menu) 6.
+Enter the start and end dates of the class
+
+7. For URL, please enter www.iss.nus.edu.sg 8.
+For contact email, please enter ask-iss@nus.edu.sg 9.
+Once you have entered this information, please agree that the claim is accurate and click the submit button.
+
+Graduate Certificate FAQ
+
+Ql: How do I sign up for the Graduate Certificate(s)?
+A: Participants may sign up for the Graduate Certificate(s) through the NUS-ISS website.
+
+Q2: How much is the subsidy if I enrol for graduate certificate programme?
+A: Participants who enrol for the Graduate Certificate programme will enjoy either 40% subsidy (Singaporean), 30% (SME or unemployed) or 20% subsidy (Permanent Resident).
+Participants will be entitled to only one subsidy.
+Kindly note that the above subsidies are eligible to Singaporeans and Permanent Residents only.
+All fees and subsidies are valid for 2021 only.
+If you have been given a subsidy for the modular course before, you may not be eligible for another subsidy for the same course.
+
+Q3: Would there be subsidy if I were to sign up for the course on a modular basis (course by course)?
+A: Participants who sign up for the courses on a modular basis will not be entitled to the graduate certificate subsidy.
+Participants may refer to the Graduate Certificate classes in the Training Calendar published on the NUS-ISS website to plan your learning journey.
+Participants who prefer a more flexible timetable may sign up for classes under the NUS-ISS Executive Education programmes.
+You will not be entitled to the graduate certificate subsidies but may qualify for the modular ssubsidies for the Executive Education programme.
+Please note that the above subsidies are available to Singaporeans and Permanent Residents only.
+All fees and subsidies are valid for 2021 only.
+
+Q4: I have taken similar courses from other learning institutions, will the course be recognised as part my qualifications to fulfil this programme criteria?
+A: In general, courses taken from other learning institutions will not be recognised as part of the qualifications towards our NUS-ISS programmes.
+However, if you have taken a course or programme from a recognized institution of higher learning that is comparable to the content and conduct of an NUS-ISS module, your learning or experience may be recognized as a waiver for a pre-requisite or for a module in the Graduate Certificate.
+For example, a participant who holds a MSc in Statistics from NUS may be given a waiver for the Statistics Bootcamp course in the Business Analytics Practice Graduate Certificate in the Data Science Stackable programme.
+
+Q5: I have taken some of the component courses some time ago.
+If I would like to attend the courses again as refresher, will I still enjoy the subsidy?
+A: If you have taken the courses previously with subsidies, you will need to pay the full fees should you wish to retake the same courses.
+
+Q6: In the instance where I had completed some of the component courses, can it be credited into this Graduate Certificate?
+A: Yes, a participant may submit his/her request for exemption by sending an email to isstrainingA@nus.edu.sg for Data Science or Smart Systems & Platforms GradCerts and isstrainingB@nus.edu.sg for Artificial Intelligence GradCerts.
+A `competent' grade is required.
+Exemptions will be considered only for courses that are taken within the last 5 years.
+
+Q7: I have completed some modular courses within the Graduate Certificate with NUS-ISS previously.
+Can I still enrol and qualify for the subsidy for remaining courses that I need to complete for this Programme?
+A: Yes, you will qualify for the subsidy via programme enrolment.
+However, the subsidy will only apply for the remaining modular courses from the start date of the first course of the graduate certificate.
+
+The completed modular courses must be taken within the last 5 years.
+To be awarded a Graduate Certificate, participants are required to be deemed competent in all the individual modular courses, and achieved a Pass grade in the Practice Module.
+The Practice Moduel comprises a graded project and written exam or other assessment.
+
+Q8: Will I get any refund if I want to prematurely exit from my practice module after the project started halfway?
+A: There will be no refund of fees for an incomplete practice module.
+
+Q9: Will I get any refund if I am unable to attend or complete courses that I have signed up for in this programme?
+A: In general, there will be no refund of fees for signed up courses or the Graduate Certificate.
+However, if you have a valid reason (such as an Medical Certificate, National Service commitment, etc., you may submit a request for a refund or reschedule by sending an email to isstrainingA@nus.edu.sg for Data Science or Smart Systems & Platforms GradCerts and isstrainingB@nus.edu.sg for Artificial Intelligence GradCerts.
+
+Q10: Must the courses be taken in a specific sequence?
+A: There is no particular order in which the modular courses are to be completed, except that they must fulfil the pre- requisites of each course.We strongly encourage participants to follow the through-train Master of Technology programme timetable to ensure a smooth learning journey and to fulfil the necessary pre-requisites.
+
+Q11: In the event NUS-ISS needs to postpone the scheduled courses, what are the options available to me?
+A: NUS-ISS is committed to running modular classes with a minimum class size.
+In the event that we need to postpone the scheduled run, your registration will be transferred to the next scheduled run.
+Participants will have time to complete the courses within two (2) years.
+
+Q12: Will I be eligible for the subsidy if I have previously failed the assessment for the modular course?
+A: Participants who have taken a modular course before but who did not satisfy the required competency standards to pass the course will not be eligible for a subsidy if they retake the course.
+
+Q13: Will I receive any form of certification after completing the modular courses within the Graduate Certificate?
+A: Participants will be issued a Certificate of Completion for a modular course if he/she meets the minimum attendance rate of 75% for the course and has passed the course assessment.
+
+Q14: I have no plan to stack up to Master of Technology.
+In this case, can I still sign up for the Graduate Certificate(s)?
+A: Certainly! These modular courses are designed to provide essential skills for the digital economy and encourage lifelong learning.
+
+Programme Requirement, Practice Module and Capstone Project
+
+Q15: What is the duration of the Graduate Certificate programmes leading to MTech qualification via stackable pathway?
+A: The maximum validity period for a Graduate Certificate is 5 years for matriculation into MTech.
+The maximum period of study for MTech Capstone project is 1 year (undertaken within 2 years after matriculation); hence, an MTech that is undertaken via the stackable pathway must be completed within 7 years.
+
+Q16: Is there a timeframe for me to complete the Graduate Certificate?
+A: Participants will be given 5 years to complete all the required Graduate Certificates.
+The 5 years for matriculation to the Master's programme will start from the completion of the first Graduate Certificate.
+
+Q17: If I have taken some modular courses via the stackable pathway, and I decide to apply for the through-train MTech programme, would the assessment results be counted towards the CAP? A: Assessment results for Graduate Certificates (the GradCert Practice Module) can be counted towards the requirements for the MTech programme.
+Assessment results from the individual modular courses do not count towards the CAP. Participants must compete the individual modular courses successfully (fulfilling minimum attendance and achieving a 'Competent' grade).
+
+Q18: Will there be any entrance test and interview for taking stackable graduate certificate programmes leading to MTech qualification similar to the shortlisting process in traditional MTech programmes?
+A: No, there will not be any entrance test or interview conducted for participants who are taking the stackable graduate certificate programme.
+However, some of the modular courses have prerequisites.
+To be awarded a Graduate Certificate, participants are required to be deemed competent at all the individual modular course level, and achieved a pass in the Practice Module, which consist of a graded project and written assessment.
+If they wish to stack their Graduate Certificates into a Masters qualification, they are required to satisfy the following requirements at the time of matriculation before they commence on the graded Capstone Project. (i.e. after having completed one (Software Engineering) or two (Enterprise Business Analytics/Intelligent Systems) fundamental Graduate Certificates and any two specialist Graduate Certificates): • Possess the equivalent of an NUS 4-year undergraduate degree, preferably in Science or Engineering or demonstrate equivalent academic skills • Demonstrate high levels of proficiency in the Graduate Certificates, with a minimum CAP of 3.0 in each of the Graduate Certificate(s) • Have received a favourable assessment at an admissions interview conducted by ISS
+
+Candidate without the equivalent undergraduate degree may apply to be matriculated under special circumstances only after completing all the Graduate Certificates and meeting a minimum CAP of 3.0.
+
+Q19: Which are the fundamental and specialist graduate certificates?
+Graduate Certificates in Data Science (stackable pathway): • Graduate Certificate in Analytics Project Management (Fundamental) • Graduate Certificate in Business Analytics Practice (Fundamental) • Graduate Certificate in Customer Analytics (Specialist) • Graduate Certificate in Practical Language Processing (Specialist) • Graduate Certificate in Advanced Predictive Modelling and Forecasting (Specialist) • Graduate Certificate in Big Data Analytics (Specialist)
+
+Graduate Certificates in Artificial Intelligence (stackable pathway): • Graduate Certificate in Intelligent Reasoning Systems (Fundamental) • Graduate Certificate in Pattern Recognition Systems (Fundamental) • Graduate Certificate in Intelligent Robotic Systems (Specialist) • Graduate Certificate in Intelligent Sensing Systems (Specialist) • Graduate Certificate in Intelligent Software Agents (Specialist) • Graduate Certificate in Practical Language Processing (Specialist)
+
+Graduate Certificates in Smarts Systems & Platform (stackable pathway): • Graduate Certificate in Architecting Scalable Systems (Fundamental) • Graduate Certificate in Designing and Managing Products and Platforms (Specialist) • Graduate Certificate in Engineering Big Data (Specialist)
+
+• Graduate Certificate in Architecting Smart Systems (Specialist) • Graduate Certificate in Securing Ubiquitous Systems (Specialist)
+
+Q20: I am an international participant residing overseas.
+Can I apply for a Student's Pass to attend stackable graduate certificate programmes?
+A: Only international students successfully admitted to the through-train Master of Technology full-time programme will be eligible for application and issuance of Student's Pass, subject to Singapore ICA's approval.
+
+Q21: Am I allowed to convert from the stackable pathway to the through-train MTech pathway and received exemptions from the modular courses I have completed (having been graded `Competent')?
+A: Participants who wish to convert to the through-train Master of Technology programme should follow the application procedures and schedule for the through-train programmes.
+The opening and closing dates for application will be announced on the NUS-ISS website..
+Upon successfully admission into the programme, the participant can submit his/her request for exemption by sending an email to isstrainingA@nus.edu.sg (MTech EBAC/SE) and isstrainingB@nus.edu.sg (MTech IS).
+Please note that each request will be subjected to approval.
+
+Q22: Is there a fee for the Practice Module and how is it conducted?
+A: Yes, the fee for Practice Module is S$214.00 with no subsides.
+A Practice Module can only be taken after completing and passing all the required modular courses in the Graduate Certificate.
+It consists of a graded project and written exam or assessment.
+The graded project will require participants to tackle one or more real world problems and apply the concepts learned from the modular courses.
+These projects may be selected from their own organisations or other NUS-ISS approved sources.
+The written exam or assessment will be conducted twice a year in Apr/May and Nov, during weekday evenings and/or Saturdays.
+A briefing session will be conducted after a participant is deemed "Competent" in all the modular courses in the Graduate Certificate, and wish to take the Practice Module to be awarded the Graduate Certificate.
+
+Q23: How and when will the grading be carried out (through individual modular courses or Practice Module) in order to be awarded the Graduate Certificate?
+A: The Practice Module (i.e. projects and assessments) will be graded.
+Participants taking the Graduate Certificate are required to achieve competency in every modular course and pass the Practice Module (i.e. achieve a minimum grade of 'C') in order to be awarded a Graduate Certificate.
+
+Q24: What should I do if I did not pass the Practice Module?
+Can I still be awarded the Graduate Certificate?
+A: There will be no supplementary assessments for participants who fail the Practice Module.
+Students can either self-study or opt to retake the failed Practice Module (Please note that fees will apply).
+Participants who retake the Practice Module will have their grade capped.
+Participants may also opt to retake the entire Graduate Certificate (Please note that fees apply) to fulfil the minimum CAP requirement for the Graduate Certificate.
+
+Q25: If I take the the through-train MTech pathway,does this mean that I will not have to take the Practice Module?
+A: All MTech pathways have the same rigour and requirements.
+Students on the through-train MTech pathway may fullfil their project requirements in parallel with the Graduate Certificate modular classes rather than at the end of the Graduate Certificate.
+The written exam or assesment for the GradCert Practice Module is the same for the stackable and the through-train students/participants.
+
+Q26: How do I withdraw from Stackable Graduate Certificate Practice Module?
+A: Non-matriculated Stackable GC Student Withdrawal Policy:
+
+1. This policy applies to all non-matriculated Stackable Grad Cert students who have signed up for the Grad Cert Practice Module.
+2. Students with extenuating circumstances (e.g., due to work, maternity, travel, etc.) may apply to withdraw from the Practice Module without penalty.
+Valid documentation must be presented.
+A successful application needs the support of the Programme Chief and the approval of Director, Graduate Programmes.
+A withdrawal does not count towards the number of attempts at the Practice Module.
+3. Students who otherwise withdraw from the Practice Module before the Grad Cert examination will receive an "Incomplete" as their grade.
+Students may choose to continue with their Practice Module within 3 years but must pay the Practice Module fee again.
+If the student does not complete the Practice Module within 3 years, the "Incomplete" will automatically convert to an "F" grade.
+A student with an "Incomplete" who chooses to withdraw again will continue with the "Incomplete" and timed from the first "Incomplete" grade.
+4. Students may not apply to withdraw from a Practice Module after they have sat for the examination.
+5. Please note that Grad Certs may evolve or be retired to remain relevant to industry needs.
+If a specific Grad Cert is no longer offered in a subsequent semester, students who withdraw under any circumstances should make alternative arrangements with NUS-ISS.
+
+Capstone Project
+
+Q26: How do I proceed with the Capstone Project after I have completed all the required Graduate Certificate(s)?
+A: To be awarded with an MTech degree, every student is required to successfully complete a `Capstone Project' after matriculation.
+These projects will typically take the form of a consulting engagement for a sponsoring organisation and will provide students with the opportunity to integrate and practice their newly acquired skills as an individual or as part of a team working on a real-life project.
+These projects also enable sponsoring organisations to experience and assess new technologies, techniques and methods.
+The sponsoring organisation can be the employer of one of the team members.
+Full-time students will do the project as part of an internship.
+Part-time students will do a project on their own time over a 6 to 12 month period.
+Stackable students who have matriculated should discuss with their respective programme Chiefs on whether they should try for an internship or to do their own projects.
+If you have further clarification on the admission process, please write in to iss-admissions@nus.edu.sg.
+
+Q27: Is there fee incurred for Capstone Project?
+A: Yes, the fees for Master of Technology Capstone Projects are listed below with no subsidies.
+• Master of Technology in Enterprise Business Analytics - $6,313.00 (inclusive of a compulsory Data Science Solutions Implementation course) • Master of Technology in Intelligent Systems - $5,350.00 • Master of Technology in Software Engineering - $5,350.00
+
+Q28: May I know if I am able to matriculate to MTech if my degree is not a 4-year programme or not equivalent to the course I currently taking?
+A: Applicants who do not meet the minimum admission requirements for an MTech programme, but perform well in the Graduate Certificates and with sufficient justification e.g. prior experience, demonstration of abilities etc., will be considered for admission on a case-by-case basis.
+Stackable Programmes offered by NUS-ISS are designed as an alternative pathway to ensure lifelong learning regardless of prior qualifications.
+
+Q29: If I do not have a suitable project within my company for the Capstone, how can I proceed with the matriculation to Master of Technology programme?
+Will NUS-ISS will assign a project for me?
+
+A: We strongly encourage students to source suitable projects in advance, from either within their own organisations or from other approved sources, so that you can apply what you have learned from the courses and bring the benefit to your organization through this capstone project experience.
+
+Q30: Can I nominate my company's project that has been started to be my Capstone project?
+A: We suggest your Capstone project should be a new initiative that are still in research or planning stage, and not already in the implementation stage, so that you can integrate and apply what you have learned from the GradCerts and maximise your learning opportunities.
+The Capstone Project supervisor from ISS will provide guidance and advice during this journey.
+
+NUS-ISS / Frequently Asked Questions
+
+© National University of Singapore.
+All Rights Reserved.
+Legal • Branding Guidelines • Contact Us • Getting to ISS
