@@ -1,0 +1,49 @@
+NUS Academic Year 2022/2023 Semester 2 (Part-Time) Jan-2023 PT Intake (BA10/IS05/SE31)
+
+Master of Technology in Enterprise Business Analytics (BA10 PT)
+
+EBA5001 Analytics Cert Manager: Course Code   Project Management Brian Course Name   (Fundamental Graduate Certificate) Lecturer(s)   Day        Time        Date                           Classroom                Examination Date    
+SFBS-NF                                       Statistics for Business II             Charles (Course Mgr) Christine Lim Suang         Saturday   9am - 5pm   7-Jan-23 14-Jan-23 28-Jan-23   Beacon (L4)                                  
+DST-NF                                        Data Storytelling                      Nirmal (Course Mgr) Prakash                      Saturday   9am - 5pm   4-Feb-23 11-Feb-23 18-Feb-23   Innovation I & II (L3)   15 May 2023 (Monday)
+DMA-NF                                        Data Management for Analytics          Brandon (Course Mgr)                             Saturday   9am - 5pm   4-Mar-23 11-Mar-23 18-Mar-23   Momentum (L4)            6:30pm - 10:00pm    
+MBAP-NF                                       Managing Business Analytics Project    Scott (Course Mgr) Nirmal Richard                Saturday   9am - 5pm   1-Apr-23 8-Apr-23 15-Apr-23    Beacon (L4)                                  
+
+*Disclaimer: Due to unforeseen circumstances, this timetable and delivery mode might be subjected to changes without prior notice.
+
+VI:: NUS ISS
+
+Updated as of 23-Feb-2023
+
+NUS Academic Year 2022/2023 Semester 2 (Part-Time) Jan-2023 PT Intake (BA10/IS05/SE31)
+
+Master of Technology in Intelligent Systems (IS05 PT)
+
+ISY5001 Intelligent         Reasoning Systems (Fundamental   Graduate Certificate)                                                                                                                                                                                       
+Cert Manager: Course Code   Sam Course Name                  Lecturer(s)                            Day                         Time                   Date                                                        Classroom        Examination Date                     
+MR-NF                       Machine Reasoning                Sam (Course Mgr)                       Saturday                    9am - 5pm              28-Jan-23 4-Feb-23 11-Feb-23 18-Feb-23                      Horizon (L4)                                          
+RS-NF                       Reasoning Systems                Sam (Course Mgr) Fangming Barry        Tuesday Thursday Saturday   6pm - 10pm 9am - 5pm   28-Feb-23 2-Mar-23 11-Mar-23 18-Mar-23 25-Mar-23 1-Apr-23   Integrity (L3)   15 May 2023 (Monday) 6:30pm - 10:00pm
+CGS-NF                      Cognitive Systems                Zhenzhen (Course Mgr) Aobo Tian Jing   Saturday                    9am - 5pm              15-Apr-23 29-Apr-23 6-May-23                                Horizon (L4)                                          
+
+*Disclaimer: Due to unforeseen circumstances, this timetable and delivery mode might be subjected to changes without prior notice.
+
+7 NUS ISS
+
+Updated as of 23-Feb-2023
+
+NUS Academic Year 2022/2023 Semester 2 (Part-Time) Jan-2023 PT Intake (BA10/IS05/SE31)
+
+Master of Technology in Software Engineering (SE31 PT)
+
+SWE5006 Cert Manager: Course Code   Designing Modern Software Systems Chandra Course Name   (Fundamental Graduate Lecturer(s)        Certificate) Day           Time                   Date                                              Classroom                     Examination Date      
+EPAT-NF                             Essential Practices for Agile Teams                     Aaron (Course Mgr) Tin Darryl            Saturday                   9am - 5pm              7-Jan-23 14-Jan-23 28-Jan-23                      Horizon (L4) Integrity (L3)                         
+OOAD-NF                             Software Analysis & Design                              Yuen Kwan (Course Mgr) Darryl Boon Kui   Thursday Friday Saturday   6pm - 10pm 9am - 5pm   2-Feb-23 3-Feb-23 11-Feb-23 18-Feb-23             Online Blue Ocean (L4)                              
+OODP-NF                             Software Design Patterns                                Boon Kui (Course Mgr) Yuen Kwan          Saturday                   9am - 5pm              25-Feb-23 4-Mar-23 11-Mar-23                      Horizon (L4) Pinnacle (L4)    No Written Examination
+DSOEA-NF                            DevSecOps Engineering and Automation                    Chandra (Course Mgr) Kenneth             Saturday                   9am - 5pm              18-Mar-23 25-Mar-23 1-Apr-23 8-Apr-23 15-Apr-23   Blue Ocean (L4)                                     
+
+*Disclaimer: Due to unforeseen circumstances, this timetable and delivery mode might be subjected to changes without prior notice.
+
+En NUS
+
+ISE
+
+Updated as of 23-Feb-2023
