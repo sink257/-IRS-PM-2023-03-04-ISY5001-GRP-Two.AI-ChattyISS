@@ -1,0 +1,335 @@
+Cybersecurity Digital Strategy & Leadership Digital Agility
+
+•
+
+e
+
+* AI and Cybersecurity
+
+* (ISC)² CCSP CBK Training Seminar
+
+* (ISC)² CISSP CBK Training Seminar #
+
+* (ISC)² CSSLP CBK Training Seminar
+
+* (ISC)² SSCP CBK Training Seminar
+
+* Cyber Security for ICT Professionals
+
+* Cybersecurity Risk Awareness
+
+* Data Governance & Protection
+
+* Design Secure Mobile Architecture
+
+* Developing Cybersecurity Architecture
+
+* Essential Security of Smart Things
+
+* Fundamentals of Cybersecurity
+
+* IoT & 5G Security
+
+Or *
+
+* Managing Cybersecurity Risk
+
+* Platform Security #
+
+* Secure Software Development Lifecycle for Agile #
+
+AP'
+
+Data Science
+
+* (ISC)² CCSP CBK Training Seminar
+
+* (ISC)² CISSP CBK Training Seminar #
+
+* (ISC)² CSSLP CBK Training Seminar
+
+* (ISC)² SSCP CBK Training Seminar
+
+* AI and Cybersecurity
+
+* Certified Scrum Product Owner
+
+* Business Agility Bootcamp
+
+* * * * *
+
+*
+
+* Business Analysis for Agile Practitioners *
+
+* Business Process Reengineering
+
+*
+
+* Certified Enterprise Architecture Practitioner *
+
+Course
+
+* Cyber Security for ICT Professionals
+
+* Cybersecurity Risk Awareness
+
+* Data Driven Decision Making
+
+* Data Governance & Protection
+
+* Design Secure Mobile Architecture #
+
+* * *
+
+* Developing Cybersecurity Architecture * * Digital Transformation Planning
+
+* Essential Security of Smart Things
+
+* Managing Cybersecurity Risk
+
+*
+
+NUS ISS
+
+National University of Singapore
+
+* Advanced Customer Analytics #
+
+* Advanced Machine Learning for Financial Services
+
+(14?"
+
+* Analytics for Commercial Excellence #
+
+* Big Data Engineering for Analytics #
+
+* Campaign Analytics #
+
+* Conversational UIs #
+
+* Complex Predictive Modelling & Forecasting #
+
+* Customer Analytics #
+
+* Data Analytics Process and Best Practice II #
+
+* Data Driven Decision Making
+
+* Data Governance & Protection
+
+* Data Management for Analytics #
+
+* Data Science Solutions Implementation
+
+Artificial Intelligence
+
+* AI and Cybersecurity
+
+* Autonomous Robots and Vehicles #
+
+* Cognitive Systems #
+
+* Conversational UIs #
+
+* Explainable and Responsible AI for Finance * Human-Robot System Engineering #
+
+* Data Storytelling #
+
+* Managing Business Analytics Projects #
+
+* New Media and Sentiment Mining #
+
+* Predictive Analytics - Insights of Trends and Irregularities #
+
+* Processing Big Data For Analytics #
+
+* Product & Pricing Analytics #
+
+* Recommender Systems #
+
+* Social Media Analytics
+
+* Statistics for Business II #
+
+* Statistics Bootcamp II #
+
+* Text Analytics #
+
+* Intelligent Process Automation #
+
+* Intelligent Sensing and Sense Making #
+
+* Machine Reasoning #
+
+* New Media and Sentiment Mining #
+
+* Pattern Recognition and Machine Learning Systems #
+
+* Problem Solving using Pattern Recognition #
+
+* Real Time Audio-Visual Sensing and Sense Making #
+
+* Reasoning Systems #
+
+* Robotic Systems #
+
+* RPA and IPA - Strategy and Management #
+
+* Self- Learning Systems #
+
+* Software Robots - Best Practices #
+
+* Text Processing using Machine Learning # * Spatial Reasoning from Sensor Data #
+
+* Web Analytics & SEO
+
+* Text Analytics #
+
+* Text Processing using Machine Learning #
+
+* Visions Systems #
+
+☒ ☒ www.iss.nus.edu.sg Updated as of Aug 2022
+
+☒
+
+Platform Security # RPA and IPA - Strategy and Management # Secure Software Development Lifecycle for Agile # IoT & 5G Security Professional Certificate in Digital Agility & Change Leadership # Professional Certificate in Digital Business Strategy # Professional Certificate in Digital Governance # Professional Certificate in Digital Organisation Models # Professional Certificate in Innovation by Design # Professional Certificate in Mastering Digital Architecture # Professional Certificate in Managing Digitalisation Complexity # Professional Certificate in Strategic Thinking & Digital Foresight # Professional Certificate in Talent & Leadership Pathways # Robotic Process Automation using Excel Macros
+
+EXECUTIVE E
+
+Software Systems
+
+* Architecting Platforms as a Business #
+
+* (ISC)² CISSP CBK Training Seminar #
+
+* Agile Testing
+
+* Architecting IOT Solutions #
+
+* Architecting Software Solutions #
+
+* Certified Scrum Product Owner
+
+* Agile Testing
+
+* Business Agility Bootcamp
+
+* Business Analysis for Agile Practitioners
+
+* Certified ScrumMaster
+
+* Coaching for Agile Teams
+
+* Essential Practices for Agile Teams
+
+* Systems Thinking & Root Cause Analysis
+
+StackUp - Startup Tech Talent Development
+
+* Autonomous Decision Making With Reinforcement Learning
+
+* Automating Infrastructure Provisioning and Configuration
+
+* Containers for Deploying and Scaling Apps DUCATION
+
+* Object Oriented Design Patterns
+
+* Platform Engineering #
+
+* Platform Security #
+
+* Secure Software Development Lifecycle for Agile #
+
+* IoT & 5G Security
+
+* Architecting Systems For Real Time Data Processing # * Managing Digital Products #
+
+* Autonomous Decision Making With Reinforcement Learning * Service Design #
+
+* Big Data Engineering for Analytics #
+
+* Cloud Native Solution Design #
+
+* Design Secure Mobile Architecture #
+
+* Designing Intelligent Edge Computing #
+
+* DevOps Engineering and Automation #
+
+* DevOps Engineering and Automation with Security Enhancement
+
+* Digital Product Strategy #
+
+* Envisioning 5G IoT Solutions
+
+* Essential Practices for Agile Teams
+
+* Humanizing Smart Systems #
+
+* Information Architecture for Data-Driven Insights #
+
+* Object Oriented Analysis & Design
+
+* Graduate Certificate in Digital Solutions Development - Design #
+
+* Graduate Certificate in Digital Solutions Development - Foundations #
+
+* Graduate Certificate in Digital Solutions Development - Machine Learning Applications #
+
+* Graduate Certificate in Digital Solutions Development - Mobile Applications #
+
+* Graduate Certificate in Digital Solutions Development - Web Application #
+
+* NUS Graduate Diploma in Systems Analysis #
+
+Digital Products & Platforms
+
+* Architecting Platforms as a Business #
+
+* Digital Products Delivery
+
+* Digital Product Management Bootcamp
+
+* Digital Product Strategy #
+
+* Managing Business Analytics Projects #
+
+* Managing Digital Products #
+
+* Product Thinking for Organisations
+
+* Strategic Product Market Fit
+
+Digital Innovation & Design
+
+* Digital & Social Engagement Strategy
+
+* Digital User Experience Design
+
+* Innovation Bootcamp
+
+* Service Design #
+
+* Social Media Analytics
+
+* Web Analytics & SEO
+
+Smart Health
+
+* Digital & Social Engagement Strategy
+
+* Digital User Experience Design
+
+* Innovation Bootcamp
+
+* Service Design #
+
+* Social Media Analytics
+
+* Web Analytics & SEO
+
+# Stackable Programmes
+
+The registered marks of respective organisations mentioned herein are marks of their respective owners.
