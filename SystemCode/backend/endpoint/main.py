@@ -14,6 +14,8 @@ def hello_world():
 def chat():
     data = request.get_json() 
     question = data['question']
+    print (question)
+
     responseMessage='Good question. i do not know'
     # If there is an image
     filename = 'image/sample.png'
@@ -21,22 +23,7 @@ def chat():
         image_data = f.read()
     
     encoded_img = base64.b64encode(image_data).decode('utf-8')
-    '''
-    pil_image = Image.open(filename)
-    image_response = send_file(filename, mimetype='image/png')
-    with BytesIO() as buffer:
-        image_response.save(buffer, 'PNG')
-        response_bytes = buffer.getvalue()
     
-    with open(filename, 'rb') as f:
-        image_data = BytesIO(f.read())
-        
-    image_response = make_response(buffer.getvalue())
-    image_response.headers.set('Content-Type','image/png')
-    json_response = jsonify({'answer':responseMessage})
-    response = make_response(image_response)
-    response.set_data(json_response.get_data())
-    '''
     response = {'image':encoded_img, 'answer':responseMessage}
 
     
