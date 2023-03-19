@@ -1,0 +1,12 @@
+<button class="open-button" onclick="openForm()">Chat</button>
+<div class="chat-popup" id="myForm">
+    <form onsubmit="submitForm(event)" class="form-container">
+        <h1>ChattyISS</h1>
+        <div id="messages-container" class="scrollable-div"></div>
+
+        <textarea placeholder="My question here.." name="msg" required></textarea>
+
+        <button type="submit" class="btn">Send</button>
+        <button type="button" class="btn cancel" onclick="closeForm()">Close</button>
+    </form>
+</div>

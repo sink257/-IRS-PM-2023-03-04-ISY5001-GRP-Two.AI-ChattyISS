@@ -4,6 +4,7 @@ import base64
 from PIL import Image
 
 url = 'http://localhost:5000/api/chat/'
+#url = 'https://chatbot-endpoint.vercel.app/api/chat'
 
 data = {'question': 'What is your name'}
 
