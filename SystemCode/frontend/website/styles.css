@@ -1,0 +1,130 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.gradient {
+    background: linear-gradient(to bottom, rgba(135,206,250,0.8), rgba(255,255,255,1));
+}
+
+/* Button used to open the chat form - fixed at the bottom of the page */
+.open-button {
+    background-color: #555;
+    color: white;
+    padding: 16px 20px;
+    border: none;
+    cursor: pointer;
+    opacity: 0.8;
+    position: fixed;
+    bottom: 23px;
+    right: 28px;
+    width: 280px;
+    border-radius: 10px;
+}
+
+/* The popup chat - hidden by default */
+.chat-popup {
+    display: none;
+    position: fixed;
+    bottom: 0;
+    right: 15px;
+    border: 3px solid #f1f1f1;
+    z-index: 9;
+    border-radius: 10px;
+}
+
+/* Add styles to the form container */
+.form-container {
+    max-width: 300px;
+    padding: 10px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0px 4px 6px rgba(0,0,0,0.2), 0px 8px 24px rgba(0,0,0,0.2);
+}
+
+    /* Full-width textarea */
+    .form-container textarea {
+        width: 100%;
+        padding: 15px;
+        margin: 5px 0 22px 0;
+        border: none;
+        background: #f1f1f1;
+        resize: none;
+        min-height: 100px;
+        border-radius: 10px;
+    }
+
+.question {
+    width: 200px;
+    padding: 10px;
+    background: linear-gradient(to bottom, #00FF00, #E0FFE0);
+    border-radius: 10px;
+    box-shadow: 0px 4px 6px rgba(0,0,0,0.2), 0px 8px 24px rgba(0,0,0,0.2);
+    margin: 5px 5px 5px 5px;
+    float: left;
+}
+
+.answer {
+    width: 200px;
+    padding: 10px;
+    background: linear-gradient(to bottom, #808080, #f5f5f5);
+    border-radius: 10px;
+    box-shadow: 0px 4px 6px rgba(0,0,0,0.2), 0px 8px 24px rgba(0,0,0,0.2);
+    margin: 5px 5px 5px 5px;
+    float: left;
+}
+
+
+    
+
+/* When the textarea gets focus, do something */
+.form-container textarea:focus {
+    background-color: #ddd;
+    outline: none;
+}
+
+    /* Set a style for the submit/send button */
+    .form-container .btn {
+        background: linear-gradient(to bottom, rgba(135,206,250,0.8), rgba(255,255,255,1));
+        color: black;
+        padding: 16px 20px;
+        border: 5px;
+        cursor: pointer;
+        width: 100%;
+        margin-bottom: 10px;
+        opacity: 0.8;
+        border-radius: 10px;
+        box-shadow: 0px 4px 6px rgba(0,0,0,0.2), 0px 8px 24px rgba(0,0,0,0.2);
+    }
+
+    /* Add a red background color to the cancel button */
+    .form-container .cancel {
+        background-color: red;
+    }
+
+    /* Add some hover effects to buttons */
+    .form-container .btn:hover, .open-button:hover {
+        opacity: 1;
+    }
+
+.enlarged {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1000;
+    max-width: 90%;
+    max-height: 90%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    cursor: zoom-out;
+}
+
+.scrollable-div {
+    width: 280px; /* Adjust the width as needed */
+    height: 300px; /* Adjust the height as needed */
+    overflow: auto;
+    border: 1px solid #000; /* Optional, for better visualization */
+}

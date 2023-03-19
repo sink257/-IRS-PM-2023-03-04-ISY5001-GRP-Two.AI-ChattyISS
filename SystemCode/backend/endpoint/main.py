@@ -2,8 +2,11 @@ from tabnanny import filename_only
 from flask import Flask, request, jsonify, send_file, make_response
 import base64
 import io
+import json
+from flask_cors import CORS
 
 app = Flask("__name__")
+CORS(app)
 
 @app.route('/')
 def hello_world():
@@ -12,8 +15,12 @@ def hello_world():
 
 @app.route('/api/chat/')
 def chat():
-    data = request.get_json() 
-    question = data['question']
+    
+    #json_data = request.args.get('data')
+    #data = json.loads(json_data)
+    #data = request.get_json() 
+    #question = data['question']
+    question = request.args.get('data') 
     print (question)
 
     responseMessage='Good question. i do not know'

@@ -21,7 +21,7 @@ def echo_all(message):
     # url = 'http://leekahwai.pythonanywhere.com:5566/api/chat/'
     # url = 'https://chatbot-endpoint.vercel.app/api/chat'
     data = {'question': message.text}
-    response = requests.get(url, json=data)
+    response = requests.get(url, params=data)
     if response.status_code == 200:
         result = response.json()['answer']
         print (result)
