@@ -30,7 +30,6 @@ body{background:#fff;font:normal 16px/1.5 Helvetica Neue, Helvetica, Arial, sans
 .k-menu .k-item, .k-widget.k-menu-horizontal>.k-item{border:none}
 /**FONTS**/
 h1{font:100 51px/1.2 Helvetica Neue, Helvetica, Arial, sans-serif;color:#333;margin:0}
-h2{font:100 41px/1.2 Helvetica Neue, Helvetica, Arial, sans-serif;color:#333;margin-top:0;margin-bottom:10px}
 h3.h3-subheader{margin:30px 0 20px;font-weight:bold;font-size:20px;}
 h3{font:100 35px/1.2 Helvetica Neue, Helvetica, Arial, sans-serif;color:#333;margin-top:10px;margin-bottom:10px}
 h4{font-weight:bold;font-size:20px}
@@ -266,7 +265,6 @@ ul.column-02{-webkit-column-count: 2; -moz-column-count: 2;column-count: 2;list-
 .flexslider-home.preloader-flexslider{min-height:300px}
 .flexslider-home .slider{min-height:500px;text-align:center;padding-top:100px;padding-bottom:100px}
 .flexslider-home .flex-control-nav{bottom:20px}
-.slider h2{color:#fff;font-size:60px;max-width:900px;margin:0 auto 20px}
 .slider p{color:#fff;font-size:18px;max-width:700px;margin:0 auto 30px}
 .flexslider-home .flex-control-paging li a{border:1px solid #e4e4e4;background:transparent;box-shadow:none;width:15px;height:15px}
 .flexslider-home .flex-control-paging li a.flex-active{background:#ef7c00}
@@ -462,8 +460,6 @@ ul.column-02{-webkit-column-count: 2; -moz-column-count: 2;column-count: 2;list-
 .tabParent .resp-tabs-content p{margin-bottom:20px}
 .tabParent-identifier > h3{text-align:center;margin-top:50px}
 .tabParent .bttn{margin:0 auto;display:block;width:130px;padding:0;text-align:center}
-.tabParent h2.resp-accordion{color:#333;font-size:16px;border-bottom:1px solid #eee!important}
-.tabParent h2.resp-tab-active{color:#ef7c00;border-bottom:1px solid #ef7c00!important}
 .tabParent .resp-arrow{border:none;position:relative}
 .tabParent .resp-arrow:before{content:"\f067";font-family:FontAwesome;font-size:20px;position:absolute;top:-6px;right:-15px;color:#666}
 .tabParent .resp-tab-active .resp-arrow{border:none!important;}

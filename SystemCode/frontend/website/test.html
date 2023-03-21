@@ -1,16 +1,19 @@
 <html>
 <body>
-    <link rel="stylesheet" href="styles.css">
-    <script src="scripts.js"></script>
+
+
+
     <h2>Popup Chat Window</h2>
     <p>Click on the button at the bottom of this page to open the chat form.</p>
     <p>Note that the button and the form is fixed - they will always be positioned to the bottom of the browser window.</p>
 
+    <link rel="stylesheet" href="chatextension/chatbot_styles.css">
+    <script src="chatextension/chatbot_scripts.js"></script>
     <div id="chat-component-container"></div>
     <script>
         // Load chat component
         async function loadChatComponent() {
-            const response = await fetch('chat_component.html');
+            const response = await fetch('chatextension/chat_component.html');
             const content = await response.text();
             document.getElementById('chat-component-container').innerHTML = content;
         }

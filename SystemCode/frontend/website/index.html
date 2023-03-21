@@ -1671,16 +1671,19 @@ $('<div class="nus-faculty-border nus-dcnm" style="float: left; margin: 0px -5px
 <script type="text/javascript" src="./NUS-ISS_files/_Incapsula_Resource" async=""></script>
 
 
+<link rel="stylesheet" href="chatextension/chatbot_styles.css">
+<script src="chatextension/chatbot_scripts.js"></script>
 <div id="chat-component-container"></div>
 <script>
     // Load chat component
     async function loadChatComponent() {
-        const response = await fetch('chat_component.html');
+        const response = await fetch('chatextension/chat_component.html');
         const content = await response.text();
         document.getElementById('chat-component-container').innerHTML = content;
     }
 
     loadChatComponent();
-</script>
+</script>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        </script>
+
 
 </body></html>
