@@ -1,3 +1,5 @@
+@namespace chatbot_namespace url(http://127.0.0.1/chatextension);
+
 body {
     font-family: Arial, Helvetica, sans-serif;
 }
