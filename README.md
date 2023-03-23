@@ -1,7 +1,7 @@
 ---
 
 ## SECTION 1 : PROJECT TITLE
-## ChattyISS - Improved NUS-ISS Chatbot
+## <img src="SystemCode/customImages/chattyiss.png" alt="alt text" width="150" height="150">ChattyISS - Improved NUS-ISS Chatbot
 ---
 
 ## SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
