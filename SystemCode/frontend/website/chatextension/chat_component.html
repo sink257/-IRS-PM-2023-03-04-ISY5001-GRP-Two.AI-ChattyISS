@@ -2,7 +2,12 @@
 <button class="open-button" onclick="openForm()">Chat</button>
 <div class="chat-popup" id="myForm">
     <form onsubmit="submitForm(event)" class="form-container">
-        <h2>ChattyISS</h2>
+        <table><tr><td>
+            <img src="chatextension/img/logo/chattyiss.png" width="50"/>
+            </td>
+            <td class="align-bottom"><h2>ChattyISS</h2></td>
+            </tr>
+        </table>
         <div id="messages-container" class="scrollable-div"></div>
 
         <textarea placeholder="My question here.." name="msg" required></textarea>
