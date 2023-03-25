@@ -35,7 +35,7 @@ from langchain.chains import ChatVectorDBChain
 from langchain.embeddings.openai import OpenAIEmbeddings
 
 import os
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "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"
 
 """Python file to serve as the frontend"""
 
