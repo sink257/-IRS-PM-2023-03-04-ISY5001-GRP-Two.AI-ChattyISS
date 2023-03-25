@@ -3,6 +3,7 @@ from flask import Flask, request, jsonify, send_file, make_response
 import base64
 import io
 import json
+from NUS_ISS_chatbot.chatbot import load_chain
 from flask_cors import CORS
 
 app = Flask("__name__")
@@ -13,17 +14,16 @@ def hello_world():
     return "Welcome to ISS NUS Chatbot"
 
 
+chain = load_chain()
 @app.route('/api/chat/')
 def chat():
-    
-    #json_data = request.args.get('data')
-    #data = json.loads(json_data)
-    #data = request.get_json() 
-    #question = data['question']
+    chat_history = []
     question = request.args.get('data') 
-    print (question)
+    print ("Received from caller: " + str(question))
 
-    responseMessage='Good question. i do not know'
+    result = chain({"question": str(question), "chat_history": chat_history})
+    responseMessage = result['answer']
+     
     # If there is an image
     filename = 'image/sample.png'
     with open(filename, 'rb') as f:
