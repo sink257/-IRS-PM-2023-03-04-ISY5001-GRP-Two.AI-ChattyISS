@@ -13,15 +13,16 @@ CORS(app)
 def hello_world():
     return "Welcome to ISS NUS Chatbot"
 
-
+chat_history = []
 chain = load_chain()
 @app.route('/api/chat/')
 def chat():
-    chat_history = []
+
     question = request.args.get('data') 
     print ("Received from caller: " + str(question))
 
     result = chain({"question": str(question), "chat_history": chat_history})
+    chat_history.append((question, result['answer']))
     responseMessage = result['answer']
      
     # If there is an image
