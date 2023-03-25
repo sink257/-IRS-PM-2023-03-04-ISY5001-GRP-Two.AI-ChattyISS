@@ -3,6 +3,8 @@ import telebot
 import requests
 import io
 import base64
+import json
+import urllib.parse
 
 # This is your bot's API token
 # ChattyISS_bot
@@ -17,11 +19,15 @@ def send_welcome(message):
 @bot.message_handler(func=lambda msg: True)
 def echo_all(message):
     # Does a connection check to ChattyISS coreback end
+    #url = 'http://localhost:5000/api/chat/'
+    #data = {'question': message.text} 
+    #encoded_params = json.dumps({'data': data})
+    #response = requests.get(url, params=encoded_params, headers={'Content-Type': 'application/json'})
+    #if response.status_code == 200:
     url = 'http://localhost:5000/api/chat/'
-    # url = 'http://leekahwai.pythonanywhere.com:5566/api/chat/'
-    # url = 'https://chatbot-endpoint.vercel.app/api/chat'
     data = {'question': message.text}
-    response = requests.get(url, params=data)
+    encoded_params = urllib.parse.urlencode({'data': json.dumps(data)})
+    response = requests.get(url + '?' + encoded_params)
     if response.status_code == 200:
         result = response.json()['answer']
         print (result)
