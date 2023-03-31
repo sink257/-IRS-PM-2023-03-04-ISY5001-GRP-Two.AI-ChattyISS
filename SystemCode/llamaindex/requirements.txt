@@ -1,0 +1,7 @@
+# llamaindex Requirements
+# using python 3.8
+llama-index
+torch
+sentencepiece
+Pillow
+protobuf==3.20.0
