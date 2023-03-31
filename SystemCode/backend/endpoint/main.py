@@ -21,7 +21,7 @@ def index():
         global_parameter1 = request.form.get('parameter1')
         global_parameter2 = request.form.get('parameter2')
         return f"Parameters updated successfully. Parameter 1: {global_parameter1}, Parameter 2: {global_parameter2}"
-    return render_template('index.html', parameter1=global_parameter1, parameter2=global_parameter2)
+    return render_template('index.html')
 
 
 @app.route('/api/chat/')
