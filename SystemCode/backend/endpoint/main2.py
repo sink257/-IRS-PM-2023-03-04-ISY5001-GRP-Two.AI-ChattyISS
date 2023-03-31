@@ -13,13 +13,22 @@ from flask_cors import CORS
 app = Flask("__name__")
 CORS(app)
 
-@app.route('/')
-def hello_world():
-    return "Welcome to ISS NUS Chatbot"
-
 chat_history = []
 text_tokens = {}
 chain = load_chain()
+global_parameter1 = 0
+global_parameter2 = 0
+
+@app.route('/', methods=['GET', 'POST'])
+def index():
+    global global_parameter1, global_parameter2
+    if request.method == 'POST':
+        global_parameter1 = request.form.get('parameter1')
+        global_parameter2 = request.form.get('parameter2')
+        return f"Parameters updated successfully. Parameter 1: {global_parameter1}, Parameter 2: {global_parameter2}"
+    return render_template('index.html')
+
+
 @app.route('/api/chat/')
 def chat():
 
