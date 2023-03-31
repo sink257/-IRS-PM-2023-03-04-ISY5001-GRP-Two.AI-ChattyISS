@@ -21,7 +21,8 @@ global_parameter2 = "optionA" # Tesseract Model
 
 @app.route('/', methods=['GET', 'POST'])
 def index():
-    global global_parameter1, global_parameter2
+    global global_parameter1, global_parameter2, chain
+    message = ""
     if request.method == 'POST':
         curr_parameter1 = global_parameter1
         curr_parameter2 = global_parameter2
@@ -38,8 +39,10 @@ def index():
                 chain = load_chaingpt4()
                 print ("option 2 is selected")
 
-        return f"Parameters updated successfully. Parameter 1: {global_parameter1}, Parameter 2: {global_parameter2}"
-    return render_template('index.html')
+        message = f"Parameters updated successfully. Parameter 1: {global_parameter1}, Parameter 2: {global_parameter2}"
+
+    return render_template('index.html', message=message)
+
 
 
 @app.route('/api/chat/')
