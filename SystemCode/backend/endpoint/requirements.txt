@@ -6,3 +6,7 @@ faiss-cpu
 openai
 streamlit
 streamlit-chat
+PyPDF2
+pdf2image
+pytesseract
+pillow

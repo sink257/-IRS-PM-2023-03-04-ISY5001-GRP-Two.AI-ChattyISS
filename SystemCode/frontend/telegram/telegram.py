@@ -35,9 +35,9 @@ def echo_all(message):
         bot.reply_to(message, result)
         imagecontent = response.json()['image']
         img = base64.b64decode(imagecontent)
-        with open('test_recv/tmp.png', 'wb') as f:
+        with open('test_recv/tmp.jpg', 'wb') as f:
             f.write(img)
-        myfile = open('test_recv/tmp.png', 'rb')
+        myfile = open('test_recv/tmp.jpg', 'rb')
 
         input_file = telebot.types.InputFile(myfile)
         bot.send_document(message2.chat.id, input_file)
