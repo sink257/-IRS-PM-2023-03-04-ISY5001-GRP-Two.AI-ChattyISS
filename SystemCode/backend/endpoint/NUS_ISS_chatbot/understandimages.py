@@ -15,7 +15,7 @@ pytesseract.pytesseract.tesseract_cmd = '/usr/bin/tesseract'  # Update this path
 
 
 # Define similarity threshold
-similarity_threshold = 0.4
+similarity_threshold = 0.5
 
 nltk.download('punkt')
 nltk.download('stopwords')
@@ -88,15 +88,45 @@ def findSuitableImage(search_string, text_tokens):
 
 def findSuitableImage2(search_string, text_tokens):
     search_tokens = preprocess_text(search_string)
-    
+
     # Calculate the total number of words in search_tokens
     total_words = len(search_tokens)
+
+    # Print the size of the text_tokens dictionary
+    print(f"Size of text_tokens: {len(text_tokens)}")
+
+    max_proportion = 0  # Initialize a variable to store the maximum proportion
+    max_value = None  # Initialize a variable to store the value corresponding to the maximum proportion
+
+    for key, value in text_tokens.items():
+        key_tokens = key.split()  # Convert the key back to a list of tokens
+
+        # Calculate the intersection between search_tokens and key_tokens
+        intersection = set(search_tokens).intersection(set(key_tokens))
+
+        # Calculate the proportion of the intersection to the total number of words in search_tokens
+        proportion = len(intersection) / total_words
+
+        # Update the maximum proportion and corresponding value if needed
+        if proportion >= similarity_threshold and proportion > max_proportion:
+            max_proportion = proportion
+            max_value = value
+            print(f"Image with a similarity of {proportion:.2f} found: {value}")
+
+    return max_value if max_value else ""
+
+def findSuitableImage3(search_string, text_tokens):
+    search_tokens = preprocess_text(search_string)
+    
+    
     
     # Print the size of the text_tokens dictionary
     print(f"Size of text_tokens: {len(text_tokens)}")
     
     for key, value in text_tokens.items():
         key_tokens = key.split()  # Convert the key back to a list of tokens
+        # Calculate the total number of words in search_tokens
+        total_words = len(key_tokens)
         
         # Calculate the intersection between search_tokens and key_tokens
         intersection = set(search_tokens).intersection(set(key_tokens))
@@ -108,6 +138,8 @@ def findSuitableImage2(search_string, text_tokens):
         if proportion >= similarity_threshold:
             print(f"Image with a similarity of {proportion:.2f} found: {value}")
             return value
+        else:
+            print(f"intesection: {len(intersection)}, total words: {total_words}, {proportion}")
             
     return ""
 
