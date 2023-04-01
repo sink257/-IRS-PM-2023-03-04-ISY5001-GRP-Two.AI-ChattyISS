@@ -39,9 +39,9 @@ def index():
                 chain = load_chaingpt4()
                 print ("option 2 is selected")
 
-        message = f"Parameters updated successfully. Parameter 1: {global_parameter1}, Parameter 2: {global_parameter2}"
+        message = f"Parameters updated successfully."
 
-    return render_template('index.html', message=message)
+    return render_template('index.html', message=message, param1=global_parameter1, param2=global_parameter2)
 
 
 

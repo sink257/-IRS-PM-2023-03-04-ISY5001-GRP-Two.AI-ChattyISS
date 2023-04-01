@@ -89,20 +89,47 @@
                     <form action="/" method="POST">
                         <label for="parameter1">Chat Model:</label>
                         <select name="parameter1" id="parameter1">
-                            <option value="option1" selected>GPT 3.5</option>
-                            <option value="option2">GPT 4.0</option>
-                            <option value="option3">Bloom</option>
+                            <option value="option1" {% if param1=="option1" %}selected{% endif %}>GPT 3.5</option>
+                            <option value="option2" {% if param1=="option2" %}selected{% endif %}>GPT 4.0</option>
+                            <option value="option3" {% if param1=="option3" %}selected{% endif %}>Bloom</option>
                         </select>
                         <label for="parameter2">Image Model:</label>
                         <select name="parameter2" id="parameter2">
-                            <option value="optionA" selected>Tesseract</option>
-                            <option value="optionB">LlamaIndex</option>
+                            <option value="optionA" {% if param2=="optionA" %}selected{% endif %}>Tesseract</option>
+                            <option value="optionB" {% if param2=="optionB" %}selected{% endif %}>LlamaIndex</option>
                         </select>
+
                         <button type="submit">Update Parameters</button>
                     </form>
                     {% if message %}
-                    <p>{{ message }}</p>
+                    <style>
+                        #message-element {
+                            height: 1.5em; /* Set the height to reserve the space for the paragraph */
+                            opacity: 0; /* Hide the paragraph by default */
+                            transition: opacity 0.3s ease; /* Add a smooth transition for showing/hiding the paragraph */
+                        }
+
+                            #message-element.visible {
+                                opacity: 1; /* Make the paragraph visible when the 'visible' class is added */
+                            }
+                    </style>
+
+                    <p id="message-element">{{ message }}</p>
+                    <script>
+                        setTimeout(function () {
+                            var messageElement = document.getElementById('message-element');
+                            if (messageElement) {
+                                messageElement.classList.add('visible'); // Make the paragraph visible
+                            }
+                            setTimeout(function () {
+                                if (messageElement) {
+                                    messageElement.classList.remove('visible'); // Hide the paragraph after 5 seconds
+                                }
+                            }, 2500); // 2500 milliseconds = 2.5 seconds
+                        }, 0);
+                    </script>
                     {% endif %}
+
                 </div>
             </td>
         </tr>
