@@ -44,14 +44,17 @@ os.environ["OPENAI_API_KEY"] = "sk-zWABZMpTCPuBvGKnEKTdT3BlbkFJlIYL4dZY9MQNgeiae
 
 def load_chain():
     """Logic for loading the chain you want to use should go here."""
-    system_template = """Use the following pieces of context to answer the question at the end. If you don't know the answer, say "Ask Sam".
+    system_template = """Act like a question answering bot for a school. 
+    Use the following pieces of context to answer the question at the end. 
+    If you don't know the answer, ask the user to rephrase the question based on the context given.
 
     {context}
 
     Question: {question}
 
 
-    Answer in sentence:"""
+    Answer in sentence and in full details where possible:"""
+
     messages = [
         SystemMessagePromptTemplate.from_template(system_template),
         HumanMessagePromptTemplate.from_template("{question}")
@@ -62,7 +65,7 @@ def load_chain():
 
     embeddings = OpenAIEmbeddings()
 
-    store = FAISS.load_local(os.getcwd() + "/NUS_ISS_chatbot/model", embeddings)
+    store = FAISS.load_local(os.getcwd() + "/NUS_ISS_chatbot/model2", embeddings)
 
     qa = ChatVectorDBChain.from_llm(ChatOpenAI(temperature=0), vectorstore = store,qa_prompt=prompt)
 

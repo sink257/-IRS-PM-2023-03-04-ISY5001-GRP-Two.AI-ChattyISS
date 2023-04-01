@@ -13,9 +13,10 @@ import json
 pytesseract.pytesseract.tesseract_cmd = '/usr/bin/tesseract'  # Update this path to match your system
 
 
+ 
 
 # Define similarity threshold
-similarity_threshold = 0.5
+similarity_threshold = 0.3
 
 nltk.download('punkt')
 nltk.download('stopwords')
