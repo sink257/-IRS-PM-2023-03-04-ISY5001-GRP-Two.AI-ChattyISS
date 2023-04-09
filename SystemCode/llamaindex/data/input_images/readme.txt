@@ -1,0 +1,1 @@
+Images placed in this folder will be saved into the image index and the image will then be tranferred over to indexed folder
