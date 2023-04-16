@@ -9,6 +9,8 @@ from nltk.util import ngrams
 
 import nltk
 import json
+import time
+import threading
 
 pytesseract.pytesseract.tesseract_cmd = '/usr/bin/tesseract'  # Update this path to match your system
 
@@ -51,8 +53,18 @@ def jaccard_similarity(a, b):
     c = a.intersection(b)
     return float(len(c)) / (len(a) + len(b) - len(c))
 
+def print_dots(stop_event):
+    while not stop_event.is_set():
+        print(".", end="", flush=True)
+        time.sleep(1)
 
 def tagImages():
+    import time
+    start_time = time.time()
+    print ("\nStep 2: Tagging images according to Tessaract")
+    stop_event = threading.Event()
+    dot_printer = threading.Thread(target=print_dots, args=(stop_event,))
+    dot_printer.start()
     # Set the folder containing your images
     image_folder = Path("images")
 
@@ -68,12 +80,16 @@ def tagImages():
 
         # Preprocess and tokenize the text
         preprocessed_text = preprocess_text(text)
-        print(preprocessed_text)
         text_tokens[' '.join(preprocessed_text)] = image_path
 
     # Save the text_tokens dictionary to a JSON file
     with open("text_tokens.json", "w") as outfile:
         json.dump(text_tokens, outfile)
+
+    elapsed_time = time.time() - start_time
+    stop_event.set()
+    dot_printer.join()
+    print (f"Complete Tagging images according to Tessaract, Elapsed time: {elapsed_time:.4f} seconds")
 
 def findSuitableImage(search_string, text_tokens):
     search_tokens = preprocess_text(search_string)
