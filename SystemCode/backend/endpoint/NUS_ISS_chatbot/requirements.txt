@@ -1,5 +1,16 @@
+pipenv
+flask
+flask-cors
 langchain
 faiss-cpu
 openai
 streamlit
 streamlit-chat
+PyPDF2
+pdf2image
+pytesseract
+pillow
+llama-index
+torch
+sentencepiece
+protobuf==3.20.0
