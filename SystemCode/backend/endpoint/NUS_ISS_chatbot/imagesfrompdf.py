@@ -37,7 +37,7 @@ def generateImgFromPDF():
 
         # Save the extracted images
         for index, image in enumerate(images):
-            image_path = image_output_folder / f"page_{i + 1}.jpg"
+            image_path = image_output_folder/"page_{i+1}.jpg"
             i+=1
             image.save(image_path, "JPEG")
 
@@ -48,6 +48,6 @@ def generateImgFromPDF():
 
 
 # Does the Tesseract OCT implementations
-#generateImgFromPDF()
-#tagImages() 
-tagImages_llama()
+generateImgFromPDF()
+tagImages() 
+#tagImages_llama()
