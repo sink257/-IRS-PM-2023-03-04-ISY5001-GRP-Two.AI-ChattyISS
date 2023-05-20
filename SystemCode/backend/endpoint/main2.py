@@ -3,6 +3,7 @@ from flask import Flask, request, jsonify, render_template
 import base64
 import io
 import json
+import time
 from NUS_ISS_chatbot.chatbot import load_chain as load_chaingpt3_5
 from NUS_ISS_chatbot.chatbot_gpt4 import load_chain as load_chaingpt4
 from NUS_ISS_chatbot.understandimages import clearAndLoadTextTokensFromFile
@@ -65,12 +66,28 @@ def chat():
     chat_history.append((question, result['answer']))
     responseMessage = result['answer']
 
+    # Timer to clear chat_history every 20 seconds
+    def clear_chat_history():
+            print("Chat history cleared")
+            chat_history.clear()
+
+    # Cancel the previous timer thread, if it exists
+    if hasattr(chat, 'timer_thread'):
+        chat.timer_thread.cancel()
+
+    # Start the timer in a separate thread
+    import threading
+    chat.timer_thread = threading.Timer(300, clear_chat_history)
+    chat.timer_thread.start()
+     
+
     if global_parameter2 == "optionA":
         similarimage = findSuitableImage2(str(responseMessage), text_tokens)
     if global_parameter2 == "optionB":
         similarimage = findSuitableImage_llama(str(responseMessage), image_index)
     print(similarimage)
-     
+
+    
 
     # If there is an image
     filename = similarimage#'image/sample.png'

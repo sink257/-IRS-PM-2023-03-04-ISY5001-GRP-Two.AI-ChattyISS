@@ -16,7 +16,7 @@ from camelot import read_pdf
 import os
 
 #declare OpenAI key
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = {YOUR_OPENAI_KEY}
 
 ## Read in timetable first (currently supports pdf only) 
 directory_path = './NUS-ISS documents/Timetable'
