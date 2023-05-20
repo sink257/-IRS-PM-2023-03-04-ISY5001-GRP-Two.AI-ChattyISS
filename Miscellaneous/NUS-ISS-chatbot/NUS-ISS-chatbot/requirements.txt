@@ -1,0 +1,8 @@
+langchain==0.0.134
+faiss-cpu
+openai
+unstructured
+unstructured[local-inference]
+camelot-py
+PyPDF2~=2.0
+pymupdf

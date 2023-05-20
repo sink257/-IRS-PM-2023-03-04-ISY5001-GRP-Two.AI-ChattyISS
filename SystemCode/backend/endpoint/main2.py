@@ -90,5 +90,5 @@ def chat():
 
 if __name__ == '__main__':
     text_tokens = clearAndLoadTextTokensFromFile()
-    image_index = clearAndLoadTextTokensFromFile_llama()
+    #image_index = clearAndLoadTextTokensFromFile_llama()
     app.run()
