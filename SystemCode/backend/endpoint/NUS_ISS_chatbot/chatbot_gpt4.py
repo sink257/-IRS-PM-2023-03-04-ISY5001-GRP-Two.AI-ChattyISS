@@ -33,18 +33,23 @@ import faiss
 import pickle
 from langchain.chains import ChatVectorDBChain
 from langchain.embeddings.openai import OpenAIEmbeddings
+from datetime import date
+import time
 
 import os
 os.environ["OPENAI_API_KEY"] = "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"
 
 """Python file to serve as the frontend"""
+today = date.today()
 
-
+tday_test = "{Today's date is " + str(today.strftime("%B %d, %Y")) + ")" 
 
 
 def load_chain():
     """Logic for loading the chain you want to use should go here."""
-    system_template = """Act like a question answering bot for a school. 
+    system_template = """Act like a question answering bot for a school, noting that today is"""
+    system_template = system_template + str(today.strftime("%B %d, %Y")) + "." 
+    system_template = system_template + """
     Use the following pieces of context to answer the question at the end. 
     If you don't know the answer, ask the user to rephrase the question based on the context given.
 
@@ -53,7 +58,7 @@ def load_chain():
     Question: {question}
 
 
-    Answer in sentence and in full details where possible:"""
+    Answer in sentence and in full details where possible. """
     
     messages = [
     SystemMessagePromptTemplate.from_template(system_template),
@@ -65,10 +70,10 @@ def load_chain():
 
     embeddings = OpenAIEmbeddings()
 
-    store = FAISS.load_local(os.getcwd() + "/NUS_ISS_chatbot/model3", embeddings)
+    store = FAISS.load_local(os.getcwd() + "/NUS_ISS_chatbot/gpt4_model", embeddings)
 
     qa = ChatVectorDBChain.from_llm(ChatOpenAI(temperature=0, model_name = 'gpt-4'), vectorstore = store,qa_prompt=prompt
-                                    ,top_k_docs_for_context = 10
+                                    ,top_k_docs_for_context = 3
                                     , return_source_documents = True
                                     )
     return qa
