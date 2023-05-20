@@ -24,7 +24,7 @@ async function submitForm(event) {
     const json_data = JSON.stringify({ "question": message });
     const encoded_data = encodeURIComponent(json_data);
     
-    const response = await fetch(`http://127.0.0.1:5000/api/chat/?data=${encoded_data}` , {
+    const response = await fetch(`http://localhost:5000/api/chat/?data=${encoded_data}` , {
         method: 'GET',
         headers: {
             'Content-Type': 'application/json',

@@ -34,14 +34,17 @@ import pickle
 from langchain.chains import ChatVectorDBChain, ConversationalRetrievalChain
 from langchain.embeddings.openai import OpenAIEmbeddings
 from datetime import date
+from datetime import datetime
 import os
 import time
 
-#os.environ["OPENAI_API_KEY"] = "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"
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = {YOUR_OPENAI_KEY}
 
 """Python file to serve as the frontend"""
 today = date.today()
+#date_str = "6th May 2023"
+#date_format = "%dth %B %Y"
+#today = datetime.strptime(date_str, date_format)
 
 tday_test = "{Today's date is " + str(today.strftime("%B %d, %Y")) + ")" 
 def load_chain():

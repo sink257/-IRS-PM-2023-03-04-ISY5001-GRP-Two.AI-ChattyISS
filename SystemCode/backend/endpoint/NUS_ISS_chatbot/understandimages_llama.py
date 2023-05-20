@@ -6,8 +6,7 @@ import shutil
 import time
 import threading
 
-#os.environ['OPENAI_API_KEY'] = "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"
-os.environ['OPENAI_API_KEY'] = "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"
+os.environ['OPENAI_API_KEY'] = {YOUR_OPENAI_KEY}
 
 
 from langchain.llms import OpenAI

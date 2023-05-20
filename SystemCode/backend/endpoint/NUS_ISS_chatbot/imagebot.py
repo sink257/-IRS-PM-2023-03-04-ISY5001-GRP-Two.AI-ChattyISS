@@ -3,7 +3,7 @@ import re
 import sys
 import base64
 import shutil
-os.environ['OPENAI_API_KEY'] = "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"
+os.environ['OPENAI_API_KEY'] = {YOUR_OPENAI_KEY}
 from langchain.llms import OpenAI
 from llama_index import SimpleDirectoryReader, GPTSimpleVectorIndex, LLMPredictor, ServiceContext
 from llama_index.readers.file.base import (
