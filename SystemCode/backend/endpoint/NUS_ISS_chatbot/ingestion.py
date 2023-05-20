@@ -95,11 +95,11 @@ for i in range(len(directory_files)):
 
 
 #gpt3.5 save model
-#store.save_local("./test/gpt3.5_small_model")
-#store.save_local("./test/gpt3.5_model")
+#store.save_local("./gpt3.5_small_model")
+#store.save_local("./gpt3.5_model")
 
 #gpt4save model
-store.save_local("./test/gpt4_model")
+store.save_local("./gpt4_model")
 
 
     
