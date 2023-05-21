@@ -12,6 +12,10 @@ In summary, the problems of existing solutions can be summarised in the followin
 •	Relevancy of information
 •	Difficulty of updating information
 
+The proposed intelligent chatbot is going to address these gaps of the current NUS-ISS chatbots. The delivery of the MVP (Minimum Viable Prototype) is going to demonstrate the chatbot’s capability of delivering accurate and up-to-date information. 
+ The following diagram illustrates the business flow for the proposed solution. 
+
+![alt text](ProjectReport/mainSystem.png)
 
 ---
 
