@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Miscellaneous",
+    "\\Miscellaneous\\NUS-ISS-chatbot",
+    "\\SystemCode",
+    "\\SystemCode\\backend",
+    "\\SystemCode\\backend\\endpoint",
+    "\\SystemCode\\backend\\endpoint\\NUS_ISS_chatbot",
+    "\\SystemCode\\backend\\endpoint\\NUS_ISS_chatbot\\processed_tables",
+    "\\SystemCode\\backend\\endpoint\\templates"
+  ],
+  "SelectedNode": "\\SystemCode\\backend\\endpoint\\NUS_ISS_chatbot\\chatbot_gpt4.py",
+  "PreviewInSolutionExplorer": false
+}
