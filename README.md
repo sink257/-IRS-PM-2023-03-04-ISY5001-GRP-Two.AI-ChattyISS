@@ -32,39 +32,65 @@ The proposed intelligent chatbot is going to address these gaps of the current N
 
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
-//TODO
+Business Presentation
+![Watch Here]("Video/ChattyISS Business Video Presentation.mp4")
+
+Technical Presentation
+![Watch Here]("Video/ChattyISS Technical Video Presentation.mp4")
 
 ---
 
 ## SECTION 5 : USER GUIDE
 
-//TODO
+### Server Installation and Setup
+#### Installation setup
+ChattyISS is already hosted in Azure. However, it is possible to install and run in your local machine. 
+Use an Ubuntu machine or WSL. Ensure that Python3 has been installed in the machine. 
+Download the latest code from Github 
+Navigate to /SystemCode/backend/endpoint folder
+ 
+Download all the necessary requirements by running the following command. 
+chmod +x install.sh
 
----
+```./install.sh```
+
+Setup a cron task to perform daily OCR. 
+```
+chmod +x cronTask.sh
+crontab –e
+```
+
+
+This will open a table in the default text editor. Add a new line at the bottom of the file and specify the schedule and command to execute.
+```
+0 0 * * * cronTask.sh
+```
+
+##### Backend Service
+Retrieve your OpenAI API key from 
+https://platform.openai.com/account/api-keys
+Navigate to /SystemCode/backend/endpoint/NUS_ISS_chatbot folder
+Edit chatbot.py, chatbot_gpt4.py and understandingimages_llama.py with your API key.
+
+```
+import os
+os.environ[“OPENAI_API_KEY”] = {Your API Key}
+```
+Navigate to /SystemCode/backend/endpoint/ folder.
+ Run the backend server using the following command.
+ ```
+python3 main2.py
+```
+
+Verify that the backend server is running by navigating to the link in your preferred web browser as shown above. 
+The following webpage should be shown:
+<brr>
+ ![alt text](SystemCode/customImages/options.png)
+
+
 ## SECTION 6 : PROJECT REPORT / PAPER
 
-//TODO
+The project report could be found here:
+ ![Project Report](ProjectReport/01_ProjectReport/Two.AI.ProjectReport_v1.docx)
 
-**Recommended Sections for Project Report / Paper:**
-- Executive Summary / Paper Abstract
-- Sponsor Company Introduction (if applicable)
-- Business Problem Background
-- Market Research
-- Project Objectives & Success Measurements
-- Project Solution (To detail domain modelling & system design.)
-- Project Implementation (To detail system development & testing approach.)
-- Project Performance & Validation (To prove project objectives are met.)
-- Project Conclusions: Findings & Recommendation
-- Appendix of report: Project Proposal
-- Appendix of report: Mapped System Functionalities against knowledge, techniques and skills of modular courses: MR, RS, CGS
-- Appendix of report: Installation and User Guide
-- Appendix of report: 1-2 pages individual project report per project member, including: Individual reflection of project journey: (1) personal contribution to group project (2) what learnt is most useful for you (3) how you can apply the knowledge and skills in other situations or your workplaces
-- Appendix of report: List of Abbreviations (if applicable)
-- Appendix of report: References (if applicable)
 
----
-## SECTION 7 : MISCELLANEOUS
-
-//TODO
-
----
