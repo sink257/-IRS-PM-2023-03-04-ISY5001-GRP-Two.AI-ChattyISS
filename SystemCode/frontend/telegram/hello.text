@@ -1,0 +1,80 @@
+2023-05-20 14:33:37,755 (__init__.py:960 MainThread) ERROR - TeleBot: "Infinity polling exception: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/chat/?data=%7B%22question%22%3A+%22test%22%7D (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6f2a91d340>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+2023-05-20 14:33:37,760 (__init__.py:962 MainThread) ERROR - TeleBot: "Exception traceback:
+Traceback (most recent call last):
+  File "/root/anaconda3/lib/python3.9/site-packages/urllib3/connection.py", line 174, in _new_conn
+    conn = connection.create_connection(
+  File "/root/anaconda3/lib/python3.9/site-packages/urllib3/util/connection.py", line 95, in create_connection
+    raise err
+  File "/root/anaconda3/lib/python3.9/site-packages/urllib3/util/connection.py", line 85, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/root/anaconda3/lib/python3.9/site-packages/urllib3/connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "/root/anaconda3/lib/python3.9/site-packages/urllib3/connectionpool.py", line 398, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "/root/anaconda3/lib/python3.9/site-packages/urllib3/connection.py", line 239, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "/root/anaconda3/lib/python3.9/http/client.py", line 1285, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/root/anaconda3/lib/python3.9/http/client.py", line 1331, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/root/anaconda3/lib/python3.9/http/client.py", line 1280, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/root/anaconda3/lib/python3.9/http/client.py", line 1040, in _send_output
+    self.send(msg)
+  File "/root/anaconda3/lib/python3.9/http/client.py", line 980, in send
+    self.connect()
+  File "/root/anaconda3/lib/python3.9/site-packages/urllib3/connection.py", line 205, in connect
+    conn = self._new_conn()
+  File "/root/anaconda3/lib/python3.9/site-packages/urllib3/connection.py", line 186, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7f6f2a91d340>: Failed to establish a new connection: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/root/anaconda3/lib/python3.9/site-packages/requests/adapters.py", line 489, in send
+    resp = conn.urlopen(
+  File "/root/anaconda3/lib/python3.9/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    retries = retries.increment(
+  File "/root/anaconda3/lib/python3.9/site-packages/urllib3/util/retry.py", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/chat/?data=%7B%22question%22%3A+%22test%22%7D (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6f2a91d340>: Failed to establish a new connection: [Errno 111] Connection refused'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/root/anaconda3/lib/python3.9/site-packages/telebot/__init__.py", line 955, in infinity_polling
+    self.polling(non_stop=True, timeout=timeout, long_polling_timeout=long_polling_timeout,
+  File "/root/anaconda3/lib/python3.9/site-packages/telebot/__init__.py", line 1043, in polling
+    self.__threaded_polling(non_stop=non_stop, interval=interval, timeout=timeout, long_polling_timeout=long_polling_timeout,
+  File "/root/anaconda3/lib/python3.9/site-packages/telebot/__init__.py", line 1118, in __threaded_polling
+    raise e
+  File "/root/anaconda3/lib/python3.9/site-packages/telebot/__init__.py", line 1074, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "/root/anaconda3/lib/python3.9/site-packages/telebot/util.py", line 148, in raise_exceptions
+    raise self.exception_info
+  File "/root/anaconda3/lib/python3.9/site-packages/telebot/util.py", line 91, in run
+    task(*args, **kwargs)
+  File "/root/anaconda3/lib/python3.9/site-packages/telebot/__init__.py", line 6428, in _run_middlewares_and_handler
+    result = handler['function'](message)
+  File "/mnt/d/TFS/MTech/01_Lessons/05 Project/NUS ISS Chatbot/SystemCode/frontend/telegram/telegram.py", line 30, in echo_all
+    response = requests.get(url + '?' + encoded_params)
+  File "/root/anaconda3/lib/python3.9/site-packages/requests/api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "/root/anaconda3/lib/python3.9/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/root/anaconda3/lib/python3.9/site-packages/requests/sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/root/anaconda3/lib/python3.9/site-packages/requests/sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+  File "/root/anaconda3/lib/python3.9/site-packages/requests/adapters.py", line 565, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/chat/?data=%7B%22question%22%3A+%22test%22%7D (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6f2a91d340>: Failed to establish a new connection: [Errno 111] Connection refused'))
+"
+2023-05-20 14:34:08,536 (__init__.py:966 MainThread) ERROR - TeleBot: "Infinity polling: polling exited"
+2023-05-20 14:34:08,537 (__init__.py:968 MainThread) ERROR - TeleBot: "Break infinity polling"
