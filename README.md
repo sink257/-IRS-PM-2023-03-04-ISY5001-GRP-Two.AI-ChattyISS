@@ -6,7 +6,12 @@
 
 ## SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
 
-//TODO
+The current NUS-ISS website is targeted at prospective students rather than existing students. It is difficult to search for related information and data pertaining to non-curriculum (such as nearest canteen, nearest facilities) or student guides (student handbooks).  
+ It has been identified that there are already existing NUS-ISS chatbots developed. These NUS-ISS chatbots cannot provide accurate responses to queries and are confined to fixed responses. They only accept limited follow-up questions. These chatbots are also outdated and do not provide easy means for extension. Frequent changes to the NUS-ISS curriculum or information could not be easily updated into the chat system.  
+In summary, the problems of existing solutions can be summarised in the following points
+•	Relevancy of information
+•	Difficulty of updating information
+
 
 ---
 
