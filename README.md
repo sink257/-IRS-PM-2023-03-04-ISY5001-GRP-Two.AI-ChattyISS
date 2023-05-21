@@ -22,11 +22,11 @@ The proposed intelligent chatbot is going to address these gaps of the current N
 ## SECTION 3 : CREDITS / PROJECT CONTRIBUTION
 
 | Official Full Name  | Student ID (MTech Applicable)  | Work Items (Who Did What) | Email (Optional) |
-| :------------ |:---------------:| :-----| :-----|
-| Lee Kah Wai | A0019705H | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| e1111840@u.nus.edu |
-| Wee De Li, Darren | A0269370X | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| e1112241@u.nus.edu |
-| Seow Teck Han, Michael | A0270178B | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| e1117140@u.nus.edu |
-| Sankalp | A0226756W | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| sankalp@u.nus.edu |
+| :------------ |:---------------:| :-------------------------| :-----|
+| Lee Kah Wai | A0019705H | *	Project coordinator for project.<br>*	Distribution of work to team<br>*	Work on assessment, development of frontend system<br>*	Work on assessment, development of endpoint system<br>*	System integration for the System<br>*	Host application on Azure<br>*	Creation of Business Video| e1111840@u.nus.edu |
+| Wee De Li, Darren | A0269370X | <br>* Technical manager for project<br>* Responsible for all technical aspects and modelling. <br>* Researching and selecting various packages and methodologies to develop a chatbot <br>* Design and implement LangChain<br>* Conduct testing to ensure the accuracy of our chatbot <br>* Identify necessary improvements to enhance system performance.| e1112241@u.nus.edu |
+| Seow Teck Han, Michael | A0270178B | <br>*	Business Manager for this project<br>*	Conduct market research on the viability of chatbot systems.<br>*	Research and testing on image recognition solutions <br>*	Design and develop the image processing subsystem.<br>*	In charge of design and planning of test cases <br>*	Conduct testing of chatbot system functionalities.<br>*	Summarize the objectives and goals of the project into a conclusion.| e1117140@u.nus.edu |
+| Sankalp | A0226756W | <br>*	Release manager for the project<br>*	Worked on creating and maintaining the GitHub repository<br>*	Researched on large language models to use for question answering.<br>*	Researched on technologies to use for the frontend/backend.<br>*	Created the template for the final report.<br>*	Created the technical video for the project.| sankalp@u.nus.edu |
 
 ---
 
