@@ -32,19 +32,13 @@ The proposed intelligent chatbot is going to address these gaps of the current N
 
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true">
-    <source src="Video/ChattyISS Business Video Presentation.mp4" type="video/mp4">
-  </video>
-</figure>
+### Business Presentation
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/3BicvaHyMQU)
+<br>
 
-Business Presentation
-![Watch Here]("Video/ChattyISS Business Video Presentation.mp4")
-
-
-
-Technical Presentation
-![Watch Here]("Video/ChattyISS Technical Video Presentation.mp4")
+### Technical Presentation
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/1UdpvNYcKI4)
+<br>
 
 ---
 
@@ -95,7 +89,7 @@ The following webpage should be shown:
 <brr>
  ![alt text](SystemCode/customImages/options.png)
 
-
+---
 ## SECTION 6 : PROJECT REPORT / PAPER
 
 The project report could be found here:
