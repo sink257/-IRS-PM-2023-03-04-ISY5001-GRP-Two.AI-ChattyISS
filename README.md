@@ -92,7 +92,6 @@ The following webpage should be shown:
 ---
 ## SECTION 6 : PROJECT REPORT / PAPER
 
-The project report could be found here:
- ![Project Report](ProjectReport/01_ProjectReport/Two.AI.ProjectReport_v1.docx)
+The project report could be found in the ProjectReport folder in this repository. 
 
 
