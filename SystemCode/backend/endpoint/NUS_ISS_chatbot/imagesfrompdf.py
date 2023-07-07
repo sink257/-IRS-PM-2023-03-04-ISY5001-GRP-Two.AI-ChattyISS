@@ -2,7 +2,7 @@ import os
 from pathlib import Path
 from pdf2image import convert_from_path
 from understandimages import tagImages
-from understandimages_llama import tagImages_llama
+#from understandimages_llama import tagImages_llama
 import time
 import threading
 
